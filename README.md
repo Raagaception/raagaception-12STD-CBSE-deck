@@ -18,7 +18,7 @@ This deck will only be uploaded on the Anki Shared website when v1.0.0 is ready.
 		- Ch-03_electrochemistry
 		- Ch-04_chemical-kinetics
 		- Ch-05_surface-chemistry
-		- Ch-07_p-block-elements *(WIP)*
+		- Ch-07_p-block-elements
 		- inorganic-molecular-formulae
 		- organic-molecular-formulae
 		- random-stuff
@@ -36,10 +36,10 @@ This deck will only be uploaded on the Anki Shared website when v1.0.0 is ready.
 		- standard-substitutions-for-integration-differentiation
 		- trigonometric-identities-formulae
 	- PHY
-		- Ch-04_moving_charges_and_magnetism *(WIP)*
+		- Ch-04_moving_charges_and_magnetism
 		- Ch-08_electromagnetic-waves
 		- Ch-11_dual-nature-of-radiation-and-matter
-		- Ch-12_atoms *(WIP)*
+		- Ch-12_atoms
 		- Ch-14_semiconductors
 		- random-stuff
 
