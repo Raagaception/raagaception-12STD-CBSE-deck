@@ -10,7 +10,7 @@ If you have a previous version, just download the latest release and double-clic
 ## Why isn't this shared on Anki Shared Decks?
 This deck will only be uploaded on the Anki Shared website when v1.0.0 is ready. It is still a work in progress; expected to be complete by 10th May 2021.
 
-## Syllabus list / Tag hierarchy
+## Tag hierarchy *(Syllabus covered so far)*
 - Raagaception_12STD
 	- CHEM
 		- Ch-01_the-solid-state
