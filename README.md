@@ -8,7 +8,7 @@ Download the latest version of the release from [here](https://github.com/Raagac
 If you have a previous version, just download the latest release and double-click it. You don't need to delete or alter anything for updating; Anki will automatically open and add the cards from the new release into your existing version without affecting anything else. 
 
 ## Why isn't this shared on Anki Shared Decks?
-This deck will only be uploaded on the Anki Shared website when v1.0.0 is ready. It is still a work in progress; expected to be complete by 10th May 2021.
+This deck will only be uploaded on the Anki Shared website when v1.0.0 is ready. It is still a work in progress; expected to be complete by 15th May 2021.
 
 ## Tag hierarchy *(Syllabus covered so far)*
 - Raagaception_12STD
