@@ -54,7 +54,7 @@ This deck follows the special reduced [CBSE 2021 syllabus](http://cbseacademic.n
 		- random-stuff
 
 ## Contributors
-A huge thanks to my peers [Axelei](https://ankiweb.net/shared/byauthor/1383206786) and [Skillustrator](https://github.com/The-Skillustrator) for providing their assistance in the creation of this project.
+A huge thanks to my peers [Avery](https://ankiweb.net/shared/byauthor/1383206786) and [Skillustrator](https://github.com/The-Skillustrator) for providing their assistance in the creation of this project.
 
 ## Support and Updates
 If you spot a mistake, have a suggestion or want to help, please don't hesitate to [submit an issue](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/issues/new?body=%0A%0A%0A---%0AAnki+Card+ID+:%0AAnki+Note+ID+:%0A). I'm still trying to regularly add to and simplify this deck even more to aid comprehension.
