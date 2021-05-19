@@ -11,7 +11,7 @@ The **ultimate** Anki deck for preparing for Grade 12 CBSE Board Exams in India!
 4) You can either use Anki's [filtered decks feature](https://docs.ankiweb.net/filtered-decks.html?highlight=filtered#filtered-decks--cramming) to study selective chapters from the deck, or just suspend all the cards after downloading and selectively unsuspend cards by tag as illustrated in [this YouTube video](https://youtu.be/iYU-5nXvCrA). 
 I will eventually be making a detailed tutorial of my own, when I have the time.
 ### For existing users
-***WARNING : Make sure you never ever, under any circumstance, rename or rearrange the deck you download from here, otherwise it will hamper the update process. And always make a profile backup before install any updates.***
+***WARNING : Make sure you never ever, under any circumstance, rename or rearrange the deck you download from here, otherwise it will hamper the update process. And always make a profile backup before installing any updates!***
 
 If you already are using previous version of the deck, just download the [latest release](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest) and double-click it on a desktop system. You don't need to delete or alter anything for updating; Anki will automatically open and add the cards from the new release into your existing version without affecting anything else. 
 
@@ -61,8 +61,8 @@ This deck follows the special reduced [CBSE 2021 syllabus](http://cbseacademic.n
 		- Ch-14_semiconductors
 		- random-stuff
 
-## Contributors
-A huge thanks to my peers [Avery](https://ankiweb.net/shared/byauthor/1383206786) and [Skillustrator](https://github.com/The-Skillustrator) for providing their assistance in the creation of this project.
-
 ## Support and Updates
 If you spot a mistake, have a suggestion or want to help, please don't hesitate to [submit an issue](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/issues/new?body=%0A%0A%0A---%0AAnki+Card+ID+:%0AAnki+Note+ID+:%0A). I'm constantly adding more topics and simplifying this deck to aid comprehension.
+
+## Contributors
+A huge thanks to my peers [Avery](https://ankiweb.net/shared/byauthor/1383206786) and [Skillustrator](https://github.com/The-Skillustrator) for providing their assistance in the creation of this project!
