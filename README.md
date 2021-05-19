@@ -1,7 +1,7 @@
 # Raagaception's 12STD CBSE Deck (Science stream, PCM)
 The **ultimate** Anki deck for preparing for Grade 12 CBSE Board Exams in India!
-AnkiWeb page : https://apps.ankiweb.net/
-Discord Server : https://discord.gg/kbSXsRTUC2
+- AnkiWeb page : https://ankiweb.net/shared/info/1981482084
+- Discord Server : https://discord.gg/kbSXsRTUC2
 
 ## Downloads
 ### For new users
@@ -65,4 +65,4 @@ This deck follows the special reduced [CBSE 2021 syllabus](http://cbseacademic.n
 A huge thanks to my peers [Avery](https://ankiweb.net/shared/byauthor/1383206786) and [Skillustrator](https://github.com/The-Skillustrator) for providing their assistance in the creation of this project.
 
 ## Support and Updates
-If you spot a mistake, have a suggestion or want to help, please don't hesitate to [submit an issue](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/issues/new?body=%0A%0A%0A---%0AAnki+Card+ID+:%0AAnki+Note+ID+:%0A). I'm still trying to regularly add to and simplify this deck even more to aid comprehension.
+If you spot a mistake, have a suggestion or want to help, please don't hesitate to [submit an issue](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/issues/new?body=%0A%0A%0A---%0AAnki+Card+ID+:%0AAnki+Note+ID+:%0A). I'm constantly adding more topics and simplifying this deck to aid comprehension.
