@@ -1,7 +1,7 @@
 # Raagaception's 12STD CBSE Deck (Science stream, PCM)
 The **ultimate** Anki deck for preparing for Grade 12 CBSE Board Exams in India!
-- AnkiWeb page : https://apps.ankiweb.net/
-- Discord Server : https://tinyurl.com/Raagaception-Anki-Discord
+AnkiWeb page : https://apps.ankiweb.net/
+Discord Server : https://discord.gg/kbSXsRTUC2
 
 ## Downloads
 ### For new users
@@ -15,8 +15,8 @@ I will eventually be making a detailed tutorial of my own, when I have the time.
 
 If you already are using previous version of the deck, just download the [latest release](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest) and double-click it on a desktop system. You don't need to delete or alter anything for updating; Anki will automatically open and add the cards from the new release into your existing version without affecting anything else. 
 
-## Syllabus
-This deck follows the special reduced [CBSE 2021 syllabus](http://cbseacademic.nic.in/Revisedcurriculum_2021.html#collapse15). This deck doesn't consist of the entire syllabus yet, but has 70% of it covered so far - I'll be still updating it frequently. Topics included in the deck currently <strong>(as of v.0.6.0)</strong> are as follows:
+## Tag Structure
+This deck follows the special reduced [CBSE 2021 syllabus](http://cbseacademic.nic.in/Revisedcurriculum_2021.html#collapse15), and is tagged accordingly. This deck doesn't consist of the entire syllabus *yet*, but has quite a lot of it covered so far; I'll be still updating it frequently. The tag structure of the latest release is as follows:
 - Raagaception_12STD
 	- CHEM
 		- Ch-01_the-solid-state
@@ -26,6 +26,8 @@ This deck follows the special reduced [CBSE 2021 syllabus](http://cbseacademic.n
 		- Ch-05_surface-chemistry
 		- Ch-07_p-block-elements
 		- Ch-10_haloalkanes-and-haloarenes
+		- Ch-11_alcohols-phenols-and-ethers
+		- Ch-12_aldehydes-ketones-carboxylic
 		- inorganic-molecular-formulae
 		- organic-molecular-formulae
 		- random-stuff
@@ -38,7 +40,11 @@ This deck follows the special reduced [CBSE 2021 syllabus](http://cbseacademic.n
 		- Ch-07_integrals
 		- Ch-10_vectors
 		- Ch-11_3d-geometry
+			- theory
+			- questions
 		- Ch-13_probability
+			- theory
+			- questions
 		- random-stuff
 		- standard-substitutions-for-integration-differentiation
 		- trigonometric-identities-formulae
