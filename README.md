@@ -4,14 +4,14 @@ The **ultimate** Anki deck for preparing for Grade 12 CBSE Board Exams in India!
 - Discord Server : https://tinyurl.com/Raagaception-Anki-Discord
 
 ## Downloads
-#### For new users
+### For new users
 1) Download the Anki program for desktop from [here](https://apps.ankiweb.net/).
 2) Download the latest version this deck from [releases](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest) *(expand the "assets" drop down, then download the .apkg file)*, or from the **[AnkiWeb shared deck page](https://ankiweb.net/shared/info/1981482084).**
 3) Double-click the downloaded file and it will open up within the Anki.
 4) You can either use Anki's [filtered decks feature](https://docs.ankiweb.net/filtered-decks.html?highlight=filtered#filtered-decks--cramming) to study selective chapters from the deck, or just suspend all the cards after downloading and selectively unsuspend cards by tag as illustrated in [this YouTube video](https://youtu.be/iYU-5nXvCrA). 
 I will eventually be making a detailed tutorial of my own, when I have the time.
-#### For existing users
-If you have a previous version, just download the latest release and double-click it. You don't need to delete or alter anything for updating; Anki will automatically open and add the cards from the new release into your existing version without affecting anything else.
+### For existing users
+If you have a previous version, just download the latest release and double-click it. You don't need to delete or alter anything for updating; Anki will automatically open and add the cards from the new release into your existing version without affecting anything else. ***Make sure you never ever, under any circumstance, rename or rearrange the deck you download from here, otherwise it will hamper the update process. And always make a profile backup before install any updates.***
 
 ## Syllabus
 This deck follows the special reduced [CBSE 2021 syllabus](http://cbseacademic.nic.in/Revisedcurriculum_2021.html#collapse15). This deck doesn't consist of the entire syllabus yet, but has 70% of it covered so far - I'll be still updating it frequently. Topics included in the deck currently <strong>(as of v.0.6.0)</strong> are as follows:
