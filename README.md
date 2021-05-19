@@ -25,8 +25,8 @@ This deck follows the special reduced [CBSE 2021 syllabus](http://cbseacademic.n
 		- Ch-04_chemical-kinetics
 		- Ch-05_surface-chemistry
 		- Ch-07_p-block-elements
-		- Ch-10_haloalkanes-and-haloarenes
-		- Ch-11_alcohols-phenols-and-ethers
+		- Ch-10_haloalkanes-haloarenes
+		- Ch-11_alcohols-phenols-ethers
 		- Ch-12_aldehydes-ketones-carboxylic
 		- inorganic-molecular-formulae
 		- organic-molecular-formulae
