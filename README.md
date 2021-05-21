@@ -69,5 +69,44 @@ This deck follows the special reduced [CBSE 2021 syllabus](http://cbseacademic.n
 ## Support and Updates
 If you spot a mistake, have a suggestion or want to help, please don't hesitate to [submit an issue](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/issues/new?body=%0A%0A%0A---%0AAnki+Card+ID+:%0AAnki+Note+ID+:%0A). I'm constantly adding more topics and simplifying this deck to aid comprehension.
 
+## MathJax Script for AnkiWeb Users
+If you're reviewing your cards on the browser version of AnkiWeb, the equations in any cards won't get rendered. But by adding the following code to the front and back of the "Basic - Raagaception" and "Cloze - Raagaception" card templates, AnkiWeb will render your MathJax for you : 
+```css
+<script type="text/x-mathjax-config">
+MathJax.Hub.processSectionDelay = 0;
+MathJax.Hub.Config({
+messageStyle:"none",
+showProcessingMessages:false,
+tex2jax:{
+inlineMath: \[ \['$','$'\], \['\\\\(','\\\\)'\] \],
+displayMath: \[ \['$$','$$'\], \['\\\\\[','\\\\\]'\] \],
+processEscapes:true
+}
+});
+MathJax.Ajax.config.path\["mhchem"\] =
+"https://cdnjs.cloudflare.com/ajax/libs/mathjax-mhchem/3.3.2";
+MathJax.Hub.Config({
+TeX: {
+extensions: \["\[mhchem\]/mhchem.js"\]
+}
+});
+</script>
+<script type="text/javascript">
+(function() {
+if (window.MathJax != null) {
+var card = document.querySelector('.card');
+MathJax.Hub.Queue(\['Typeset', MathJax.Hub, card\]);
+return;
+}
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS\_SVG-full';
+document.body.appendChild(script);
+})();
+</script>
+```
+
+This code was included in the initial versions of the deck but discontinued from v0.9.0 onwards to maximize compatibility, since on versions of Anki 2.1.40 or lower, this JavaScript [causes a rendering error](https://i.imgur.com/KfQRJZZ.png). Hence if you need the functionality, and you use Anki version 2.1.42+, you can manually add it yourself.
+
 ## Contributors
 A huge thanks to my peers [Avery](https://ankiweb.net/shared/byauthor/1383206786) and [Skillustrator](https://github.com/The-Skillustrator) for providing their assistance in the creation of this project!
