@@ -3,8 +3,8 @@
 
 The **ultimate** Anki deck for preparing for Grade 12 CBSE Board Exams in India!
 
-## Downloads
-### For new users
+## Instructions
+If you're absolutely new to Anki, go through all the steps below without skipping any.
 1) **DOWNLOADS** 
 	- Download the Anki program for desktop from [AnkiWeb](https://apps.ankiweb.net/).
 	- Download the latest version of the deck from the [latest release changelog](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest).
