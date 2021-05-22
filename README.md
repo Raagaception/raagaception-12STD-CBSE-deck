@@ -2,7 +2,7 @@
 [AnkiWeb page](https://ankiweb.net/shared/info/1981482084) | [Latest Release](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest) | [Discord Server](https://discord.gg/kbSXsRTUC2)
 
 The **ultimate** Anki deck for preparing for Grade 12 CBSE Board Exams in India!
-![](https://i.imgur.com/8smnJEc.gif)
+![](https://i.imgur.com/Z2EW3NQ.gif)
 
 ## Instructions
 1) **DOWNLOADS** 
