@@ -2,6 +2,7 @@
 [AnkiWeb page](https://ankiweb.net/shared/info/1981482084) | [Latest Release](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest) | [Discord Server](https://discord.gg/kbSXsRTUC2)
 
 The **ultimate** Anki deck for preparing for Grade 12 CBSE Board Exams in India!
+![](https://i.imgur.com/8smnJEc.gif)
 
 ## Instructions
 1) **DOWNLOADS** 
@@ -9,62 +10,65 @@ The **ultimate** Anki deck for preparing for Grade 12 CBSE Board Exams in India!
 	- Download the latest version of the deck from the [latest release changelog](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest).
 	- Open up the Anki program.
 	- Double-click the downloaded deck in system explorer and it will load into Anki.
-2) **TUTORIALS AND RESOURCES**
+2) **REVIEW SETTINGS**
 	- Take a deep breath, and try to watch [this YouTube video](https://youtu.be/uLfczzq9z_8) completely to fully understand how Anki functions, and what settings for the learning algorithm might be the best for you. It's pretty long *(30 minutes)* but trust me, it will save you a LOT OF time and trouble later on.
+		Here are the settings I personally use to study this deck, if you need a guideline:
+		![](https://i.imgur.com/Unf4yef.gif)
 	- After you're done with the video and have set up your recall settings, watch [this YouTube video](https://youtu.be/68DyNKWOj84) to understand what are tags, suspending cards, etc.
-	- Finally, watch [this YouTube video](https://youtu.be/iYU-5nXvCrA) to learn about how you can use the tags of the deck to only selectively study the topics *you need*, by suspending all undesired topics. *You don't need to study everything in the deck, just study what you WANT to!*
-3) **UPDATES AND CHECKING FOR NEW VERSION**
+3) **STUDYING TOPIC-WISE BY TAGS**
+	- *You don't need to study everything in the deck, just study what you WANT to;*   since I've tagged my deck chapter-by-chapter.
+	- Here's how to go about studying by utilising the tag system :
+		1) Click on the parent tag "Raagaception_12STD", select all cards in browser *(Ctrl+A)*, then suspend ALL the cards in the deck - this will result in none of the cards showing up in your review queue. Note that all suspended cards are represented in the browser as yellowed-out cards.
+		2) Select each tag corresponding to the topic you wish to study, select all the cards which come up in the browser *(Ctrl+A)*, then unsuspend them. Only the unsuspended topics will appear in your review queue.
+		3) Close the browser and review the cards normally for a few days. If you wish to unlock more chapters, just repeat step 2. <br>![](https://i.imgur.com/WWT4vUu.gif)
+4) **UPDATES AND CHECKING FOR NEW VERSION**
 	- ***WARNING : Make sure you never ever, under any circumstance, rename or rearrange the deck you download from here, otherwise it will hamper the update process. And always make a profile backup before installing any updates!***
 	- If you heed the above warning, updating is the most simple part. Head over to the [latest release changelog](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest), download the latest version of the deck, and double-click it. It will add all new cards and error corrections to your old version without affecting any of your review information. Only thing you need to do is to go into the card browser, and suspend/unsuspend the newly added chapter cards which you might or might not want to study.
-	- To check for updates, bookmark this page and check back to it every 3-ish days, or click the "watch" button on the top-right of repository, or [join my Discord server](https://discord.gg/kbSXsRTUC2) to get pinged for updates.
+	- To check for updates, bookmark this page and check back to it every week, or click the "watch" button on the top-right of repository if you have a GitHub account, or [join my Discord server](https://discord.gg/kbSXsRTUC2) to get pinged for updates.
 
-I will eventually be making a detailed tutorial of my own, when I have the time.
-
-## Tag Structure
-This deck follows the special reduced [CBSE 2021 syllabus](http://cbseacademic.nic.in/Revisedcurriculum_2021.html#collapse15), and is tagged accordingly. This deck doesn't consist of the entire syllabus *yet*, but has quite a lot of it covered so far; I'll be still updating it frequently. The tag structure of the latest release is as follows:
-- Raagaception_12STD
-	- CHEM
-		- Ch-01_the-solid-state
-		- Ch-02_solutions
-		- Ch-03_electrochemistry
-		- Ch-04_chemical-kinetics
-		- Ch-05_surface-chemistry
-		- Ch-07_p-block-elements
-		- Ch-10_haloalkanes-haloarenes
-		- Ch-11_alcohols-phenols-ethers
-		- Ch-12_aldehydes-ketones-carboxylic
-		- inorganic-molecular-formulae
-		- organic-molecular-formulae
-		- random-stuff
-	- MATH
-		- Ch-01_relations_functions
-		- Ch-02_inverse_trig
-		- Ch-03_matrices
-		- Ch-04_determinants
-		- Ch-05_continuity-and-differentiability
-		- Ch-07_integrals
-		- Ch-10_vectors
-		- Ch-11_3d-geometry
-			- theory
-			- questions
-		- Ch-13_probability
-			- theory
-			- questions
-		- random-stuff
-		- standard-substitutions-for-integration-differentiation
-		- trigonometric-identities-formulae
-	- PHY
-		- Ch-01_electric-charges-and-fields
-		- Ch-02_electrostatic_potential_and_capacitance
-		- Ch-04_moving_charges_and_magnetism
-		- Ch-08_electromagnetic-waves
-		- Ch-09_ray-optics
-		- Ch-10_wave-optics
-		- Ch-11_dual-nature-of-radiation-and-matter
-		- Ch-12_atoms 
-		- Ch-13_nuclei
-		- Ch-14_semiconductors
-		- random-stuff
+## Syllabus Covered
+This deck follows the special reduced [CBSE 2021 syllabus](http://cbseacademic.nic.in/Revisedcurriculum_2021.html#collapse15), and is tagged accordingly. This deck doesn't consist of the entire syllabus *yet*, but has quite a lot of it covered so far; I'll be still updating it frequently. The syllabus covered as of the latest release is as follows:
+- *Physics*
+	- *Electrostatics*
+		- Ch-01 Electric Charges and Fields
+		- Ch-02 Electrostatic Potential and Capacitance
+	- *Electromagnetism*
+		- Ch-04 Moving Charges and Magnetism
+	- *Electromagnetic Induction and Alternating Current*
+		- Ch-06 Electromagnetic Waves
+	- *Optics*
+		- Ch-09 Ray Optics
+		- Ch-10 Wave Optics
+	- *Dual Nature of Matter*
+		- Ch-11 Dual Nature of Radiation and Matter
+	- *Atoms and Nuclei*
+		- Ch-12 Atoms
+		- Ch-13 Nuclei
+	- *Electronic Devices*
+		- Ch-14 Semiconductors
+- *Chemistry*
+	- *Physical Chemistry*
+		- Ch-01 The Solid State
+		- Ch-02 Solutions
+		- Ch-03 Electrochemistry
+		- Ch-04 Chemical Kinetics
+		- Ch-05 Surface Chemistry
+	- *Inorganic Chemistry*
+		- Ch-07 p-Block Elements
+	- *Organic Chemistry*
+		- Ch-10 Haloalkanes and Haloarenes
+		- Ch-11 Alcohols, Phenols and Ethers
+		- Ch-12 Aldehydes, Ketones and Carboxylic Acid
+- *Mathematics*
+	- Ch-01 Relations and Functions
+	- Ch-02 Inverse Trigonometry
+	- Ch-03 Matrices
+	- Ch-04 Determinants
+	- Ch-05 Continuity and Differentiability
+	- Ch-07 Integrals
+	- Ch-10 Vectors
+	- Ch-11 Three Dimensional Geometry
+	- Ch-13 Probability
 
 ## Support and Updates
 If you spot a mistake, have a suggestion or want to help, please don't hesitate to [submit an issue](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/issues/new?body=%0A%0A%0A---%0AAnki+Card+ID+:%0AAnki+Note+ID+:%0A). I'm constantly adding more topics and simplifying this deck to aid comprehension.
