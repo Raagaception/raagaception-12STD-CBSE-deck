@@ -13,7 +13,7 @@ The **ultimate** Anki deck for preparing for Grade 12 CBSE Board Exams in India!
 2) **REVIEW SETTINGS**
 	- Take a deep breath, and try to watch [this YouTube video](https://youtu.be/uLfczzq9z_8) completely to fully understand how Anki functions, and what settings for the learning algorithm might be the best for you. It's pretty long *(30 minutes)* but trust me, it will save you a LOT OF time and trouble later on.
 		Here are the settings I personally use to study this deck, if you need a guideline:
-		![](https://i.imgur.com/Unf4yef.gif)
+		![](https://i.imgur.com/rphVCR5.gif)
 	- After you're done with the video and have set up your recall settings, watch [this YouTube video](https://youtu.be/68DyNKWOj84) to understand what are tags, suspending cards, etc.
 3) **STUDYING TOPIC-WISE BY TAGS**
 	- *You don't need to study everything in the deck, just study what you WANT to;*   since I've tagged my deck chapter-by-chapter.
