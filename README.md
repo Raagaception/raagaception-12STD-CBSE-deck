@@ -12,15 +12,15 @@ The **ultimate** Anki deck for preparing for Grade 12 CBSE Board Exams in India!
 	- Double-click the downloaded deck in system explorer and it will load into Anki.
 2) **REVIEW SETTINGS**
 	- Take a deep breath, and try to watch [this YouTube video](https://youtu.be/uLfczzq9z_8) completely to fully understand how Anki functions, and what settings for the learning algorithm might be the best for you. It's pretty long *(30 minutes)* but trust me, it will save you a LOT OF time and trouble later on.
-		Here are the settings I personally use to study this deck, if you need a guideline:
+	- Here are the settings I personally use to study this deck, if you need a guideline:
 		![](https://i.imgur.com/rphVCR5.gif)
-	- After you're done with the video and have set up your recall settings, watch [this YouTube video](https://youtu.be/68DyNKWOj84) to understand what are tags, suspending cards, etc.
 3) **STUDYING TOPIC-WISE BY TAGS**
 	- *You don't need to study everything in the deck, just study what you WANT to;*   since I've tagged my deck chapter-by-chapter.
 	- Here's how to go about studying by utilising the tag system :
-		1) Click on the parent tag "Raagaception_12STD", select all cards in browser *(Ctrl+A)*, then suspend ALL the cards in the deck - this will result in none of the cards showing up in your review queue. Note that all suspended cards are represented in the browser as yellowed-out cards.
-		2) Select each tag corresponding to the topic you wish to study, select all the cards which come up in the browser *(Ctrl+A)*, then unsuspend them. Only the unsuspended topics will appear in your review queue.
-		3) Close the browser and review the cards normally for a few days. If you wish to unlock more chapters, just repeat step 2. <br>![](https://i.imgur.com/WWT4vUu.gif)
+		1) Open the "Browse" window and scroll down the left pane.
+		2) Click on the parent tag "Raagaception_12STD", select all cards in browser *(Ctrl+A)*, then suspend ALL the cards in the deck - this will result in none of the cards showing up in your review queue. Note that all suspended cards are represented in the browser as yellowed-out cards.
+		3) Select each tag corresponding to the topic you wish to study, select all the cards which come up in the browser *(Ctrl+A)*, then unsuspend them. Only the unsuspended topics will appear in your review queue.
+		4) Close the browser and review the cards normally for a few days. If you wish to unlock more chapters, just repeat step 2. <br>![](https://i.imgur.com/WWT4vUu.gif)
 4) **UPDATES AND CHECKING FOR NEW VERSION**
 	- ***WARNING : Make sure you never ever, under any circumstance, rename or rearrange the deck you download from here, otherwise it will hamper the update process. And always make a profile backup before installing any updates!***
 	- If you heed the above warning, updating is the most simple part. Head over to the [latest release changelog](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest), download the latest version of the deck, and double-click it. It will add all new cards and error corrections to your old version without affecting any of your review information. Only thing you need to do is to go into the card browser, and suspend/unsuspend the newly added chapter cards which you might or might not want to study.
