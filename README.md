@@ -23,11 +23,11 @@ The **ultimate** Anki deck for preparing for Grade 12 CBSE Board Exams in India!
 		4) Close the browser and review the cards normally for a few days. If you wish to unlock more chapters, just repeat step b. <br>![](https://i.imgur.com/WWT4vUu.gif)
 4) **UPDATES AND CHECKING FOR NEW VERSION**
 	- ***WARNING : Make sure you never ever, under any circumstance, rename or rearrange the deck you download from here, otherwise it will hamper the update process. And always make a profile backup before installing any updates!***
-	- If you heed the above warning, updating is the most simple part. Head over to the [latest release changelog](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest), download the latest version of the deck, and double-click it. It will add all new cards and error corrections to your old version without affecting any of your review information. Only thing you need to do is to go into the card browser, and suspend/unsuspend the newly added chapter cards which you might or might not want to study.
-	- To check for updates, bookmark this page and check back to it every week, or click the "watch" button on the top-right of repository if you have a GitHub account, or [join my Discord server](https://discord.gg/kbSXsRTUC2) to get pinged for updates.
+	- If you heed the above warning, updating is the most simple part. Head over to the [latest release changelog](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest), download the latest version of the deck, and double-click it. It will add all new cards, and error correct existing cards in your old version without affecting any of your review information. Only thing you need to do is to go into the card browser, and suspend/unsuspend the newly added chapter cards which you might or might not want to study.
+	- To check for updates, click the "watch" button on the top-right of repository if you have a GitHub account, or [join my Discord server](https://discord.gg/kbSXsRTUC2) to get pinged for updates. Next update is due somewhere around Obctober 2021.
 
 ## Syllabus Covered
-This deck follows the special reduced [CBSE 2021 syllabus](http://cbseacademic.nic.in/Revisedcurriculum_2021.html#collapse15), and is tagged accordingly. This deck doesn't consist of the entire syllabus *yet*, but has quite a lot of it covered so far; I'll be still updating it frequently. The syllabus covered as of the latest release is as follows:
+This deck follows the special reduced [CBSE 2021 syllabus](http://cbseacademic.nic.in/Revisedcurriculum_2021.html#collapse15), and is tagged accordingly. This deck doesn't consist of the entire syllabus *yet*, but has quite a lot of it covered so far; I'll be eventually covering it in it's entirety by the end of 2021. The syllabus covered as of the latest release is as follows:
 - *Physics*
 	- *Electrostatics*
 		- Ch-01 Electric Charges and Fields
@@ -113,4 +113,4 @@ document.body.appendChild(script);
 This code was included in the initial versions of the deck but discontinued from v0.9.0 onwards to maximize compatibility, since on versions of Anki 2.1.40 or lower, this JavaScript [causes a rendering error](https://i.imgur.com/KfQRJZZ.png). Hence if you need the functionality, and you use Anki version 2.1.42+, you can manually add it yourself.
 
 ## Contributors
-A huge thanks to my peers [Avery](https://ankiweb.net/shared/byauthor/1383206786) and [Skillustrator](https://github.com/The-Skillustrator) for providing their assistance in the creation of this project!
+A huge thanks to my peers [Avery](https://ankiweb.net/shared/byauthor/1383206786) and [Skillustrator](https://github.com/The-Skillustrator) for providing their assistance in the creation of this project.
