@@ -18,7 +18,7 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39a69de4-fb7f-11eb-bdaa-e0d55e85db11",
-                                    "deck_config_uuid": "39a6c4f6-fb7f-11eb-a590-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
@@ -32,10 +32,12 @@
                                         "EY4DcYb.png",
                                         "UqQUTWp.png",
                                         "VTgXj1Q.png",
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf",
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf",
                                         "aTd5C4e.png",
                                         "aliJDA4.png",
                                         "lrLcyWI.png",
@@ -614,7 +616,7 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39a899d1-fb7f-11eb-8291-e0d55e85db11",
-                                    "deck_config_uuid": "39a8c0e5-fb7f-11eb-8398-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
@@ -622,10 +624,12 @@
                                     "media_files": [
                                         "2tYKjHf.png",
                                         "KYhWtQw.png",
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-02 Electrostatic Potential and Capacitance",
                                     "notes": [
@@ -1401,16 +1405,18 @@
                                 }
                             ],
                             "crowdanki_uuid": "39a58c63-fb7f-11eb-b392-e0d55e85db11",
-                            "deck_config_uuid": "39a5b31c-fb7f-11eb-89b7-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.1.1. Electrostatics",
                             "notes": []
@@ -1422,7 +1428,7 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39abf563-fb7f-11eb-836d-e0d55e85db11",
-                                    "deck_config_uuid": "39ac1c78-fb7f-11eb-9833-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
@@ -1438,10 +1444,12 @@
                                         "SL0l8rn.png",
                                         "WQ5boyN.png",
                                         "Y8ZLjQB.png",
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf",
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf",
                                         "dXJhclq.png",
                                         "lH5P10B.png",
                                         "oSb3DHV.png",
@@ -2031,16 +2039,18 @@
                                 }
                             ],
                             "crowdanki_uuid": "39aae3e4-fb7f-11eb-bfcc-e0d55e85db11",
-                            "deck_config_uuid": "39ab0af6-fb7f-11eb-b071-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.1.2. Electromagnetism",
                             "notes": []
@@ -2052,16 +2062,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39af02d0-fb7f-11eb-8b3a-e0d55e85db11",
-                                    "deck_config_uuid": "39af02d1-fb7f-11eb-9e89-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-08 Electromagnetic Waves",
                                     "notes": [
@@ -2969,16 +2981,18 @@
                                 }
                             ],
                             "crowdanki_uuid": "39adf150-fb7f-11eb-9a7b-e0d55e85db11",
-                            "deck_config_uuid": "39adf151-fb7f-11eb-b159-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.1.3. Induction, AC, and EM Waves",
                             "notes": []
@@ -2990,7 +3004,7 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39b28511-fb7f-11eb-8f0e-e0d55e85db11",
-                                    "deck_config_uuid": "39b28512-fb7f-11eb-99e7-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
@@ -3002,10 +3016,12 @@
                                         "TmRn0Ug.png",
                                         "V0ICfrc.png",
                                         "ZrVqV5N.png",
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf",
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf",
                                         "a2KXUUT.png",
                                         "mCwsQUT.png",
                                         "vm7L7el.png",
@@ -3679,16 +3695,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39b48162-fb7f-11eb-a1e7-e0d55e85db11",
-                                    "deck_config_uuid": "39b4a875-fb7f-11eb-9a32-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-10 Wave Optics",
                                     "notes": [
@@ -4224,16 +4242,18 @@
                                 }
                             ],
                             "crowdanki_uuid": "39b173f5-fb7f-11eb-9dc9-e0d55e85db11",
-                            "deck_config_uuid": "39b173f6-fb7f-11eb-864c-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.1.4. Optics",
                             "notes": []
@@ -4245,7 +4265,7 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39b78ed0-fb7f-11eb-bba7-e0d55e85db11",
-                                    "deck_config_uuid": "39b78ed1-fb7f-11eb-aac6-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
@@ -4260,10 +4280,12 @@
                                         "Pasted image 20210421172840.png",
                                         "QsS1eN0.png",
                                         "SHripS3.png",
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf",
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf",
                                         "au2mvOT.png",
                                         "cRtnzDk.png",
                                         "kXyXTFm.png",
@@ -5116,16 +5138,18 @@
                                 }
                             ],
                             "crowdanki_uuid": "39b67d50-fb7f-11eb-938f-e0d55e85db11",
-                            "deck_config_uuid": "39b67d51-fb7f-11eb-a9cd-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.1.5. Dual Nature",
                             "notes": []
@@ -5137,17 +5161,19 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39baea61-fb7f-11eb-b1c1-e0d55e85db11",
-                                    "deck_config_uuid": "39baea62-fb7f-11eb-aa5c-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
                                         "Pasted image 20210424185530.png",
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-12 Atoms",
                                     "notes": [
@@ -5397,16 +5423,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39bc7117-fb7f-11eb-8114-e0d55e85db11",
-                                    "deck_config_uuid": "39bc7118-fb7f-11eb-b530-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-13 Nuclei",
                                     "notes": [
@@ -5882,16 +5910,18 @@
                                 }
                             ],
                             "crowdanki_uuid": "39b9d8e1-fb7f-11eb-a707-e0d55e85db11",
-                            "deck_config_uuid": "39b9d8e2-fb7f-11eb-bda8-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.1.6. Atoms and Nuclei",
                             "notes": []
@@ -5903,7 +5933,7 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39bf2ff7-fb7f-11eb-bbab-e0d55e85db11",
-                                    "deck_config_uuid": "39bf5714-fb7f-11eb-bf08-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
@@ -5922,10 +5952,12 @@
                                         "Pasted image 20210408111459.png",
                                         "Pasted image 20210408112612.png",
                                         "Pasted image 20210408112816.png",
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-14 Semiconductor Electronics",
                                     "notes": [
@@ -6689,16 +6721,18 @@
                                 }
                             ],
                             "crowdanki_uuid": "39be1ee1-fb7f-11eb-aa13-e0d55e85db11",
-                            "deck_config_uuid": "39be45f4-fb7f-11eb-8d69-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.1.7. Semiconductors",
                             "notes": []
@@ -6710,16 +6744,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39c28bf3-fb7f-11eb-a087-e0d55e85db11",
-                                    "deck_config_uuid": "39c28bf4-fb7f-11eb-8062-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Values of Constants",
                                     "notes": [
@@ -6847,33 +6883,37 @@
                                 }
                             ],
                             "crowdanki_uuid": "39c17a73-fb7f-11eb-8cd5-e0d55e85db11",
-                            "deck_config_uuid": "39c17a74-fb7f-11eb-9109-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.1.9. Miscellaneous",
                             "notes": []
                         }
                     ],
                     "crowdanki_uuid": "39a4a193-fb7f-11eb-89f1-e0d55e85db11",
-                    "deck_config_uuid": "39a4a194-fb7f-11eb-a135-e0d55e85db11",
+                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                     "desc": "<html>  \n<body>\n<ul>\n<li><strong>Wish to update your deck to the latest version?</strong>\n  Check out the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest\">latest release</a>.</li>\n<li><strong>Any doubts on how to use the deck?</strong>\n  Check out the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/\">GitHub Repository</a> for instructions, or join the <a href=\"https://discord.gg/kbSXsRTUC2\">Discord server</a> and ask me personally.</li>\n<li><strong>Found factual errors in a card?</strong>\n  <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/issues/new?body=%0A%0A%0A---%0A%0AAnki+Card+ID+:%0AAnki+Note+ID+:%0A\">Submit an issue on GitHub</a> and I&#39;ll check it out immediately. Be sure to include the card ID and note ID of the specific card you find an error in!</li>\n</ul>\n</body>\n</html>",
                     "dyn": 0,
                     "extendNew": 22,
                     "extendRev": 0,
                     "inactiveTags": [],
                     "media_files": [
-                        "_Bookerly-Bold.ttf",
-                        "_Bookerly-BoldItalic.ttf",
-                        "_Bookerly-Regular.ttf",
-                        "_Bookerly-RegularItalic.ttf"
+                        "_Quicksand-Bold.ttf",
+                        "_Quicksand-Light.ttf",
+                        "_Quicksand-Medium.ttf",
+                        "_Quicksand-Regular.ttf",
+                        "_Quicksand-SemiBold.ttf",
+                        "_RobotoMono-Light.ttf"
                     ],
                     "name": "1.1. Physics",
                     "notes": []
@@ -6891,16 +6931,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39c5e785-fb7f-11eb-9d28-e0d55e85db11",
-                                    "deck_config_uuid": "39c5e786-fb7f-11eb-b75f-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-01 The Solid State",
                                     "notes": [
@@ -7930,7 +7972,7 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39c87f5e-fb7f-11eb-94c4-e0d55e85db11",
-                                    "deck_config_uuid": "39c87f5f-fb7f-11eb-b5fe-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
@@ -7940,10 +7982,12 @@
                                         "Pasted image 20210221120100.png",
                                         "Pasted image 20210221120135.png",
                                         "Pasted image 20210413212013.png",
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-02 Solutions",
                                     "notes": [
@@ -8589,17 +8633,19 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39ca7b49-fb7f-11eb-902c-e0d55e85db11",
-                                    "deck_config_uuid": "39ca7b4a-fb7f-11eb-842b-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
                                         "Pasted image 20210415124726.png",
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-03 Electrochemistry",
                                     "notes": [
@@ -9209,16 +9255,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39cc7739-fb7f-11eb-9908-e0d55e85db11",
-                                    "deck_config_uuid": "39cc9e4a-fb7f-11eb-8a6d-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-04 Chemical Kinetics",
                                     "notes": [
@@ -9600,7 +9648,7 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39ce4c12-fb7f-11eb-a653-e0d55e85db11",
-                                    "deck_config_uuid": "39ce4c13-fb7f-11eb-9bb8-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
@@ -9610,10 +9658,12 @@
                                         "Pasted image 20210417110248.png",
                                         "Pasted image 20210418054922.png",
                                         "Pasted image 20210418070822.png",
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-05 Surface Chemistry",
                                     "notes": [
@@ -11145,16 +11195,18 @@
                                 }
                             ],
                             "crowdanki_uuid": "39c4d607-fb7f-11eb-88e8-e0d55e85db11",
-                            "deck_config_uuid": "39c4d608-fb7f-11eb-bb97-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.2.1. Physical Chemistry",
                             "notes": []
@@ -11166,7 +11218,7 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39d2e02e-fb7f-11eb-a0ab-e0d55e85db11",
-                                    "deck_config_uuid": "39d2e02f-fb7f-11eb-b180-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
@@ -11183,10 +11235,12 @@
                                         "Pasted image 20210426134639.png",
                                         "Pasted image 20210426135427.png",
                                         "Pasted image 20210426140353.png",
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf",
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf",
                                         "iztLP2l.png",
                                         "roNf2IW.png",
                                         "wwsyPBw.png"
@@ -14127,16 +14181,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39d8acea-fb7f-11eb-9544-e0d55e85db11",
-                                    "deck_config_uuid": "39d8aceb-fb7f-11eb-a81b-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "IUPAC Nomenclature",
                                     "notes": [
@@ -14396,16 +14452,18 @@
                                 }
                             ],
                             "crowdanki_uuid": "39d1ceb4-fb7f-11eb-acf1-e0d55e85db11",
-                            "deck_config_uuid": "39d1ceb5-fb7f-11eb-894f-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.2.2. Inorganic Chemistry",
                             "notes": []
@@ -14417,7 +14475,7 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39db4528-fb7f-11eb-b496-e0d55e85db11",
-                                    "deck_config_uuid": "39db6c34-fb7f-11eb-b7be-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
@@ -14510,10 +14568,12 @@
                                         "XKaPgNM.png",
                                         "YfpdP2g.png",
                                         "ZGbc7Hl.png",
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf",
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf",
                                         "aQWRGYZ.png",
                                         "aUgBgY5.png",
                                         "aXZYFHS.png",
@@ -15901,7 +15961,7 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39dea0ad-fb7f-11eb-9933-e0d55e85db11",
-                                    "deck_config_uuid": "39dec7c0-fb7f-11eb-96ea-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
@@ -16013,10 +16073,12 @@
                                         "YkSG5ip.png",
                                         "Yqg6aMK.png",
                                         "Z4bDM4J.png",
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf",
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf",
                                         "a0DdrWn.png",
                                         "atshhte.png",
                                         "b2fvOLA.png",
@@ -18165,7 +18227,7 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39e2e6b7-fb7f-11eb-bf47-e0d55e85db11",
-                                    "deck_config_uuid": "39e30e26-fb7f-11eb-9af7-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
@@ -18279,10 +18341,12 @@
                                         "Ycnk3lH.png",
                                         "Yt9uBKT.png",
                                         "Z7Xqyk9.png",
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf",
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf",
                                         "aqsFxwA.png",
                                         "bkPammZ.png",
                                         "cKwLFUF.png",
@@ -20756,7 +20820,7 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39e7a1ec-fb7f-11eb-b287-e0d55e85db11",
-                                    "deck_config_uuid": "39e7a1ed-fb7f-11eb-b45b-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
@@ -20788,10 +20852,12 @@
                                         "RdtHStH.png",
                                         "V199dCG.png",
                                         "XX62R3k.png",
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf",
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf",
                                         "dQCYIS4.png",
                                         "k4Vnbyo.png",
                                         "nI6ma2N.png",
@@ -21420,33 +21486,37 @@
                                 }
                             ],
                             "crowdanki_uuid": "39da3401-fb7f-11eb-91a5-e0d55e85db11",
-                            "deck_config_uuid": "39da3402-fb7f-11eb-a81f-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.2.3. Organic Chemistry",
                             "notes": []
                         }
                     ],
                     "crowdanki_uuid": "39c3c485-fb7f-11eb-a568-e0d55e85db11",
-                    "deck_config_uuid": "39c3c486-fb7f-11eb-8469-e0d55e85db11",
+                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                     "desc": "<html>  \n<body>\n<ul>\n<li><strong>Wish to update your deck to the latest version?</strong>\n  Check out the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest\">latest release</a>.</li>\n<li><strong>Any doubts on how to use the deck?</strong>\n  Check out the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/\">GitHub Repository</a> for instructions, or join the <a href=\"https://discord.gg/kbSXsRTUC2\">Discord server</a> and ask me personally.</li>\n<li><strong>Found factual errors in a card?</strong>\n  <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/issues/new?body=%0A%0A%0A---%0A%0AAnki+Card+ID+:%0AAnki+Note+ID+:%0A\">Submit an issue on GitHub</a> and I&#39;ll check it out immediately. Be sure to include the card ID and note ID of the specific card you find an error in!</li>\n</ul>\n</body>\n</html>",
                     "dyn": 0,
                     "extendNew": 30,
                     "extendRev": 0,
                     "inactiveTags": [],
                     "media_files": [
-                        "_Bookerly-Bold.ttf",
-                        "_Bookerly-BoldItalic.ttf",
-                        "_Bookerly-Regular.ttf",
-                        "_Bookerly-RegularItalic.ttf"
+                        "_Quicksand-Bold.ttf",
+                        "_Quicksand-Light.ttf",
+                        "_Quicksand-Medium.ttf",
+                        "_Quicksand-Regular.ttf",
+                        "_Quicksand-SemiBold.ttf",
+                        "_RobotoMono-Light.ttf"
                     ],
                     "name": "1.2. Chemistry",
                     "notes": []
@@ -21464,16 +21534,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39ebe849-fb7f-11eb-b691-e0d55e85db11",
-                                    "deck_config_uuid": "39ec0f5f-fb7f-11eb-8a79-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf",
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf",
                                         "y8ZVJdH.png"
                                     ],
                                     "name": "Ch-01 Relations and Functions",
@@ -21650,16 +21722,18 @@
                                 }
                             ],
                             "crowdanki_uuid": "39ead6c9-fb7f-11eb-8282-e0d55e85db11",
-                            "deck_config_uuid": "39eafdda-fb7f-11eb-87a7-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.3.1. Relations and Functions",
                             "notes": []
@@ -21671,16 +21745,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39ee5971-fb7f-11eb-a62f-e0d55e85db11",
-                                    "deck_config_uuid": "39ee5972-fb7f-11eb-82ac-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-02 Inverse Trigonometry",
                                     "notes": [
@@ -22002,16 +22078,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39efe024-fb7f-11eb-b164-e0d55e85db11",
-                                    "deck_config_uuid": "39efe025-fb7f-11eb-85bb-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Trigonometric Identities",
                                     "notes": [
@@ -22571,16 +22649,18 @@
                                 }
                             ],
                             "crowdanki_uuid": "39ed47ee-fb7f-11eb-942f-e0d55e85db11",
-                            "deck_config_uuid": "39ed47ef-fb7f-11eb-b88a-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.3.2. Trigonometry",
                             "notes": []
@@ -22592,16 +22672,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39f2ed94-fb7f-11eb-9b76-e0d55e85db11",
-                                    "deck_config_uuid": "39f2ed95-fb7f-11eb-9dc0-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-03 Matrices",
                                     "notes": [
@@ -22875,16 +22957,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39f473e9-fb7f-11eb-ad2f-e0d55e85db11",
-                                    "deck_config_uuid": "39f473ea-fb7f-11eb-bf7a-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-04 Determinants",
                                     "notes": [
@@ -23204,16 +23288,18 @@
                                 }
                             ],
                             "crowdanki_uuid": "39f1dbb1-fb7f-11eb-807e-e0d55e85db11",
-                            "deck_config_uuid": "39f1dbb2-fb7f-11eb-830f-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.3.3. Matrices and Determinants",
                             "notes": []
@@ -23225,16 +23311,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39f73395-fb7f-11eb-bb7d-e0d55e85db11",
-                                    "deck_config_uuid": "39f73396-fb7f-11eb-835c-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-05 Continuity and Differentiability",
                                     "notes": [
@@ -23820,16 +23908,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39f92f23-fb7f-11eb-acd5-e0d55e85db11",
-                                    "deck_config_uuid": "39f92f24-fb7f-11eb-9af5-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-07 Integrals",
                                     "notes": [
@@ -24583,16 +24673,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39fb527e-fb7f-11eb-86a5-e0d55e85db11",
-                                    "deck_config_uuid": "39fb793e-fb7f-11eb-ae74-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Standard Substitutions for Integration and Differentiation",
                                     "notes": [
@@ -24924,16 +25016,18 @@
                                 }
                             ],
                             "crowdanki_uuid": "39f621b1-fb7f-11eb-804d-e0d55e85db11",
-                            "deck_config_uuid": "39f621b2-fb7f-11eb-8de2-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.3.4. Calculus",
                             "notes": []
@@ -24945,7 +25039,7 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "39ff22ea-fb7f-11eb-9800-e0d55e85db11",
-                                    "deck_config_uuid": "39ff22eb-fb7f-11eb-a7f7-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
@@ -24954,10 +25048,12 @@
                                         "Pasted image 20210211093727.png",
                                         "Pasted image 20210212061615.png",
                                         "Pasted image 20210212070515.png",
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-10 Vector Algebra",
                                     "notes": [
@@ -25207,16 +25303,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "3a0145e0-fb7f-11eb-b63d-e0d55e85db11",
-                                    "deck_config_uuid": "3a0145e1-fb7f-11eb-9a0f-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-11 Three Dimensional Geometry",
                                     "notes": [
@@ -25668,16 +25766,18 @@
                                 }
                             ],
                             "crowdanki_uuid": "39fcffe3-fb7f-11eb-ad8d-e0d55e85db11",
-                            "deck_config_uuid": "39fcffe4-fb7f-11eb-8e51-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.3.5. Vectors and 3D Geometry",
                             "notes": []
@@ -25689,16 +25789,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "3a040590-fb7f-11eb-9c9f-e0d55e85db11",
-                                    "deck_config_uuid": "3a042c40-fb7f-11eb-984c-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Ch-13 Probability",
                                     "notes": [
@@ -25922,16 +26024,18 @@
                                 }
                             ],
                             "crowdanki_uuid": "3a02f410-fb7f-11eb-860b-e0d55e85db11",
-                            "deck_config_uuid": "3a031ac1-fb7f-11eb-a4af-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.3.6. Probability",
                             "notes": []
@@ -25943,16 +26047,18 @@
                                     "__type__": "Deck",
                                     "children": [],
                                     "crowdanki_uuid": "3a069d66-fb7f-11eb-9597-e0d55e85db11",
-                                    "deck_config_uuid": "3a069d67-fb7f-11eb-af83-e0d55e85db11",
+                                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                                     "desc": "",
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "_Bookerly-Bold.ttf",
-                                        "_Bookerly-BoldItalic.ttf",
-                                        "_Bookerly-Regular.ttf",
-                                        "_Bookerly-RegularItalic.ttf"
+                                        "_Quicksand-Bold.ttf",
+                                        "_Quicksand-Light.ttf",
+                                        "_Quicksand-Medium.ttf",
+                                        "_Quicksand-Regular.ttf",
+                                        "_Quicksand-SemiBold.ttf",
+                                        "_RobotoMono-Light.ttf"
                                     ],
                                     "name": "Values of Squares, Cubes, Roots and Logarithms",
                                     "notes": [
@@ -26440,33 +26546,37 @@
                                 }
                             ],
                             "crowdanki_uuid": "3a056534-fb7f-11eb-bd1b-e0d55e85db11",
-                            "deck_config_uuid": "3a058be2-fb7f-11eb-b490-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
-                                "_Bookerly-Bold.ttf",
-                                "_Bookerly-BoldItalic.ttf",
-                                "_Bookerly-Regular.ttf",
-                                "_Bookerly-RegularItalic.ttf"
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
                             ],
                             "name": "1.3.9. Miscellaneous",
                             "notes": []
                         }
                     ],
                     "crowdanki_uuid": "39e9c548-fb7f-11eb-a6c6-e0d55e85db11",
-                    "deck_config_uuid": "39e9ec5b-fb7f-11eb-ae04-e0d55e85db11",
+                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
                     "desc": "<html>  \n<body>\n<ul>\n<li><strong>Wish to update your deck to the latest version?</strong>\n  Check out the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest\">latest release</a>.</li>\n<li><strong>Any doubts on how to use the deck?</strong>\n  Check out the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/\">GitHub Repository</a> for instructions, or join the <a href=\"https://discord.gg/kbSXsRTUC2\">Discord server</a> and ask me personally.</li>\n<li><strong>Found factual errors in a card?</strong>\n  <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/issues/new?body=%0A%0A%0A---%0A%0AAnki+Card+ID+:%0AAnki+Note+ID+:%0A\">Submit an issue on GitHub</a> and I&#39;ll check it out immediately. Be sure to include the card ID and note ID of the specific card you find an error in!</li>\n</ul>\n</body>\n</html>",
                     "dyn": 0,
                     "extendNew": 2,
                     "extendRev": 0,
                     "inactiveTags": [],
                     "media_files": [
-                        "_Bookerly-Bold.ttf",
-                        "_Bookerly-BoldItalic.ttf",
-                        "_Bookerly-Regular.ttf",
-                        "_Bookerly-RegularItalic.ttf"
+                        "_Quicksand-Bold.ttf",
+                        "_Quicksand-Light.ttf",
+                        "_Quicksand-Medium.ttf",
+                        "_Quicksand-Regular.ttf",
+                        "_Quicksand-SemiBold.ttf",
+                        "_RobotoMono-Light.ttf"
                     ],
                     "mid": 1612571005308,
                     "name": "1.3. Mathematics",
@@ -26474,16 +26584,18 @@
                 }
             ],
             "crowdanki_uuid": "39a39015-fb7f-11eb-b5b2-e0d55e85db11",
-            "deck_config_uuid": "39a39016-fb7f-11eb-b834-e0d55e85db11",
+            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "_Bookerly-Bold.ttf",
-                "_Bookerly-BoldItalic.ttf",
-                "_Bookerly-Regular.ttf",
-                "_Bookerly-RegularItalic.ttf"
+                "_Quicksand-Bold.ttf",
+                "_Quicksand-Light.ttf",
+                "_Quicksand-Medium.ttf",
+                "_Quicksand-Regular.ttf",
+                "_Quicksand-SemiBold.ttf",
+                "_RobotoMono-Light.ttf"
             ],
             "name": "1. NCERT",
             "notes": []
@@ -26498,2925 +26610,20 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "_Bookerly-Bold.ttf",
-                "_Bookerly-BoldItalic.ttf",
-                "_Bookerly-Regular.ttf",
-                "_Bookerly-RegularItalic.ttf"
+                "_Quicksand-Bold.ttf",
+                "_Quicksand-Light.ttf",
+                "_Quicksand-Medium.ttf",
+                "_Quicksand-Regular.ttf",
+                "_Quicksand-SemiBold.ttf",
+                "_RobotoMono-Light.ttf"
             ],
             "name": "2. JEE",
             "notes": []
         }
     ],
     "crowdanki_uuid": "39a16d17-fb7f-11eb-a7f2-e0d55e85db11",
-    "deck_config_uuid": "39a19428-fb7f-11eb-ac46-e0d55e85db11",
+    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
     "deck_configurations": [
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39a19428-fb7f-11eb-ac46-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39a39016-fb7f-11eb-b834-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39a4a194-fb7f-11eb-a135-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39a5b31c-fb7f-11eb-89b7-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39a6c4f6-fb7f-11eb-a590-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39a8c0e5-fb7f-11eb-8398-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39ab0af6-fb7f-11eb-b071-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39ac1c78-fb7f-11eb-9833-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39adf151-fb7f-11eb-b159-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39af02d1-fb7f-11eb-9e89-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39b173f6-fb7f-11eb-864c-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39b28512-fb7f-11eb-99e7-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39b4a875-fb7f-11eb-9a32-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39b67d51-fb7f-11eb-a9cd-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39b78ed1-fb7f-11eb-aac6-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39b9d8e2-fb7f-11eb-bda8-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39baea62-fb7f-11eb-aa5c-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39bc7118-fb7f-11eb-b530-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39be45f4-fb7f-11eb-8d69-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39bf5714-fb7f-11eb-bf08-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39c17a74-fb7f-11eb-9109-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39c28bf4-fb7f-11eb-8062-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39c3c486-fb7f-11eb-8469-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39c4d608-fb7f-11eb-bb97-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39c5e786-fb7f-11eb-b75f-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39c87f5f-fb7f-11eb-b5fe-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39ca7b4a-fb7f-11eb-842b-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39cc9e4a-fb7f-11eb-8a6d-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39ce4c13-fb7f-11eb-9bb8-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39d1ceb5-fb7f-11eb-894f-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39d2e02f-fb7f-11eb-b180-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39d8aceb-fb7f-11eb-a81b-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39da3402-fb7f-11eb-a81f-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39db6c34-fb7f-11eb-b7be-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39dec7c0-fb7f-11eb-96ea-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39e30e26-fb7f-11eb-9af7-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39e7a1ed-fb7f-11eb-b45b-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39e9ec5b-fb7f-11eb-ae04-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39eafdda-fb7f-11eb-87a7-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39ec0f5f-fb7f-11eb-8a79-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39ed47ef-fb7f-11eb-b88a-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39ee5972-fb7f-11eb-82ac-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39efe025-fb7f-11eb-85bb-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39f1dbb2-fb7f-11eb-830f-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39f2ed95-fb7f-11eb-9dc0-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39f473ea-fb7f-11eb-bf7a-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39f621b2-fb7f-11eb-8de2-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39f73396-fb7f-11eb-835c-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39f92f24-fb7f-11eb-9af5-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39fb793e-fb7f-11eb-ae74-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39fcffe4-fb7f-11eb-8e51-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "39ff22eb-fb7f-11eb-a7f7-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "3a0145e1-fb7f-11eb-9a0f-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "3a031ac1-fb7f-11eb-a4af-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "3a042c40-fb7f-11eb-984c-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "3a058be2-fb7f-11eb-b490-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "3a069d67-fb7f-11eb-af83-e0d55e85db11",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 9999
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
         {
             "__type__": "DeckConfig",
             "autoAgain": 0,
@@ -29474,17 +26681,19 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
-        "_Bookerly-Bold.ttf",
-        "_Bookerly-BoldItalic.ttf",
-        "_Bookerly-Regular.ttf",
-        "_Bookerly-RegularItalic.ttf"
+        "_Quicksand-Bold.ttf",
+        "_Quicksand-Light.ttf",
+        "_Quicksand-Medium.ttf",
+        "_Quicksand-Regular.ttf",
+        "_Quicksand-SemiBold.ttf",
+        "_RobotoMono-Light.ttf"
     ],
     "name": "Raagaception's 12STD CBSE Deck",
     "note_models": [
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "39a78852-fb7f-11eb-a1b0-e0d55e85db11",
-            "css": "@font-face {\n    font-family: Bookerly;\n    src: url(\"_Bookerly-Regular.ttf\");\n}\n\n@font-face {\n    font-family: Bookerly;\n    font-style: italic;\n    src: url(\"_Bookerly-RegularItalic.ttf\");\n}\n\n@font-face {\n    font-family: Bookerly;\n    font-weight: bold;\n    src: url(\"_Bookerly-Bold.ttf\");\n}\n\n@font-face {\n    font-family: Bookerly;\n    font-weight: bold;\n    font-style: italic;\n    src: url(\"_Bookerly-BoldItalic.ttf\");\n}\n\nhtml, body {\nmin-height: 100%;\nmargin: 0;\npadding: 0;\n}\nbody {\nfont-family: 'Bookerly', sans-serif;\nline-height: 1.5;\nfont-size: 1.0em;\nfont-weight: 500;\ncolor: #2e3440;\nbackground-color: #eceff4;\n}\n.card-wrap {\nmargin: 2em auto;\nmax-width: 800px;\n}\n.cardy {\npadding: 1.2em 1.5em;\nmargin: 0 5%;\nbackground-color: #ffffff;\nborder-radius: 7px;\ntext-align: left;\nbox-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.25);\n}\n.card-front {\nline-height: 1.5em;\nfont-size: 1.0em;\nfont-weight: 500;\nbackground-color: #ffffff;\n}\nimg {\ndisplay: inline-block;\nmargin: 1.5em auto;\n}\n.question {\ncolor: #ffffff;\nborder-radius: 7px 7px 0 0;\n}\n.answer {\nborder-radius: 0 0 7px 7px;\nfont-size: 1.0em;\ncolor: #ebcb8b;\n}\nhr {\nmargin: -1.2em 0 1.2em;\npadding: 0;\nborder: 0;\nheight: 0.1px;\nbackground: #ddd;\n}\n.tags {\ntransition: opacity 1s ease-in-out;\nfont-family: 'Bookerly', sans-serif;\nfont-size: 12px;\nopacity: 0.4;\nwidth: 100%;\ntext-align: center;\nposition: fixed;\npadding: 0;\ntop:0;\nright: 0;\n}\n.tags:hover {opacity: 1; position: fixed; transition: opacity .55s ease-in-out;}\n.cloze { \ncolor:#bf616a;\n}\n.nightMode b {\ncolor: #eceff4;\n}\n.nightMode hr {\nborder-bottom: 1px solid rgba(255, 255, 255, .15);\n}\n.nightMode.card {\ncolor: #eceff4;\nbackground-color: #2C2F33;\n\n}\n.nightMode .card-front {\nbackground-color: #23272A;\n}\n.nightMode .card-back {\nbackground-color: #23272A;\n}",
+            "css": "/* Importing fonts from local media folder */\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 300;\n\tsrc: url(\"_Quicksand-Light.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 400;\n\tsrc: url(\"_Quicksand-Regular.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 500;\n\tsrc: url(\"_Quicksand-Medium.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 600;\n\tsrc: url(\"_Quicksand-SemiBold.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 700;\n\tsrc: url(\"_Quicksand-Bold.ttf\");\n}\n@font-face {\n\tfont-family: Roboto Mono;\n\tfont-weight: 300;\n\tsrc: url(\"_RobotoMono-Light.ttf\");\n}\n\n/* Light Mode */\nhtml, body {\n\tmin-height: 100%;\n\tmargin: 0;\n\tpadding: 0;\n}\nbody {\n\tfont-weight: 300;\n\tfont-family: 'Quicksand', sans-serif;\n\tline-height: 1.5;\n\tcolor: #000000;\n\tbackground-repeat: no-repeat;\n\tbackground-attachment: fixed;\n\t/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+0,d8dee9+100 */\n\tbackground: #ffffff; /* Old browsers */\n\tbackground: -moz-linear-gradient(-45deg,  #ffffff 0%, #d8dee9 100%); /* FF3.6-15 */\n\tbackground: -webkit-linear-gradient(-45deg,  #ffffff 0%,#d8dee9 100%); /* Chrome10-25,Safari5.1-6 */\n\tbackground: linear-gradient(135deg,  #ffffff 0%,#d8dee9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */\n\tfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#d8dee9',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */\n}\n.card-wrap {\n\tmargin: 2em auto;\n\tmax-width: 800px;\n}\n.cardy {\n\tfont-weight: 500;\n\tfont-size: 0.9em;\n\tpadding: 1.2em 1.5em;\n\tmargin: 0 5%;\n\tbackground-color: #ffffff;\n\tborder-radius: 7px;\n\ttext-align: left;\n\tbox-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.25);\n}\n.card-front {\n\tline-height: 1.5em;\n\tfont-size: 1.0em;\n\tbackground-color: #ffffff;\n}\n.question {\n\tborder-radius: 7px 7px 0 0;\n}\n.answer {\n\tborder-radius: 0 0 7px 7px;\n\tfont-size: 12pt;\n}\nhr {\n\tmargin: -1.2em 0 1.2em;\n\tpadding: 0;\n\tborder: 0;\n\theight: 1px;\n\tbackground: #ddd;\n}\n\n/* Declare how images should be displayed */\nimg {\n\tdisplay: inline-block;\n\tmargin: 1.5em auto;\n}\n\n/* Styling for tags */\n.tags {\n\ttransition: opacity 0.2s ease-in-out;\n\tfont-family: 'Roboto Mono';\n\tfont-size: 0.8em;\n\topacity: 0.7;\n\twidth: 100%;\n\ttext-align: center;\n\tposition: fixed;\n\tpadding: 0;\n\ttop:0;\n\tright: 0;\n}\n\n/* Fancy hover animation for tags */\n.tags:hover {\n\topacity: 1; \n\tposition: fixed; \n\ttransition: opacity .2s ease-in-out;\n}\n\n/* Night Mode Adjustments */\n.nightMode b {\n\tcolor: #eceff4;\n}\n.nightMode hr {\n\tborder-bottom: 1px solid rgba(255, 255, 255, .15);\n}\n.nightMode.card {\n\tcolor: #ffffff;\n\tbackground-repeat: no-repeat;\n\tbackground-attachment: fixed;\n\t/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#2e3440+0,000000+100 */\n\tbackground: #2e3440; /* Old browsers */\n\tbackground: -moz-linear-gradient(-45deg,  #2e3440 0%, #000000 100%); /* FF3.6-15 */\n\tbackground: -webkit-linear-gradient(-45deg,  #2e3440 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */\n\tbackground: linear-gradient(135deg,  #2e3440 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */\n\tfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2e3440', endColorstr='#000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */\n}\n.nightMode .card-front {\n\tbackground-color: #000000;\n}\n.nightMode .card-back {\n\tbackground-color: #000000;\n}",
             "flds": [
                 {
                     "font": "Arial",
@@ -29520,7 +26729,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{#Tags}}\n<div class=\"tags\">{{Tags}}</div>\n{{/Tags}}\n<br>\n<!-- answer -->\n<div class=\"card-wrap\">\n<div class=\"cardy card-front question\">\n{{Front}}\n</div>\n<div class=\"cardy card-back answer\">\n<hr>\n{{Back}}\n</div>\n</div>\n<!-- answer -->\n\n\n\n",
+                    "afmt": "{{FrontSide}}\n<div class=\"card-wrap\"> \n<div class=\"cardy card-front\">\n<div class=\"front\">\n{{Back}}\n</div>\n</div>\n</div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -29528,7 +26737,7 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "{{#Tags}}  \n<div class=\"tags\">{{Tags}}</div> \n{{/Tags}}\n<br>\n<!-- question --> \n<div class=\"card-wrap\"> \n<div class=\"cardy card-front\">\n{{Front}}\n</div>\n</div>\n<!-- question -->\n\n"
+                    "qfmt": "{{#Tags}}\n<div class=\"tags\"><b>TAGS:</b> {{Tags}}</div>\n{{/Tags}}\n<br>\n<div class=\"card-wrap\"> \n<div class=\"cardy card-front\">\n{{Front}}\n</div>\n</div>"
                 }
             ],
             "type": 0
@@ -29536,7 +26745,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "39a7d678-fb7f-11eb-bb7c-e0d55e85db11",
-            "css": "@font-face {\n    font-family: Bookerly;\n    src: url(\"_Bookerly-Regular.ttf\");\n}\n\n@font-face {\n    font-family: Bookerly;\n    font-style: italic;\n    src: url(\"_Bookerly-RegularItalic.ttf\");\n}\n\n@font-face {\n    font-family: Bookerly;\n    font-weight: bold;\n    src: url(\"_Bookerly-Bold.ttf\");\n}\n\n@font-face {\n    font-family: Bookerly;\n    font-weight: bold;\n    font-style: italic;\n    src: url(\"_Bookerly-BoldItalic.ttf\");\n}\n\nhtml, body {\nmin-height: 100%;\nmargin: 0;\npadding: 0;\n}\nbody {\nfont-family: 'Bookerly', sans-serif;\nline-height: 1.5;\nfont-size: 1.0em;\nfont-weight: 400;\ncolor: #2e3440;\nbackground-color: #eceff4;\n}\n.card-wrap {\nmargin: 2em auto;\nmax-width:800px;\n}\n.cardy {\npadding: 1.2em 1.5em;\nmargin: 0 5%;\nbackground-color: #ffffff;\nborder-radius: 7px;\ntext-align: left;\nbox-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.25);\n}\n.card-front {\nline-height: 1.5em;\nfont-size: 1.0em;\nfont-weight: 400;\nbackground-color: #ffffff;\n}\nimg {\ndisplay: inline-block;\nmargin: 1.5em auto;\n}\n.question {\nborder-radius: 7px 7px 0 0;\n}\n.answer {\nborder-radius: 0 0 7px 7px;\nfont-size: 1.0em;\n}\nhr {\nmargin: -1.2em 0 1.2em;\npadding: 0;\nborder: 0;\nheight: 1px;\nbackground: #ddd;\n}\n.tags {\ntransition: opacity 1s ease-in-out;\nfont-family: 'Bookerly', sans-serif;\nfont-size: 12px;\nopacity: 0.4;\nwidth: 100%;\ntext-align: center;\nposition: fixed;\npadding: 0;\ntop:0;\nright: 0;\n}\n.tags:hover {opacity: 1; position: fixed; transition: opacity .55s ease-in-out;}\n.cloze { \ncolor:#bf616a;\n}\n.nightMode b {\ncolor: #eceff4;\n}\n.nightMode hr {\nborder-bottom: 1px solid rgba(255, 255, 255, .15);\n}\n.nightMode.card {\ncolor: #eceff4;\nbackground-color: #2C2F33;\n}\n.nightMode .card-front {\nbackground-color: #23272A;\n}\n.nightMode .card-back {\nbackground-color: #23272A;\n}\n.nightMode .cloze {\ncolor: #ebcb8b;\n}",
+            "css": "/* Importing fonts from local media folder */\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 300;\n\tsrc: url(\"_Quicksand-Light.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 400;\n\tsrc: url(\"_Quicksand-Regular.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 500;\n\tsrc: url(\"_Quicksand-Medium.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 600;\n\tsrc: url(\"_Quicksand-SemiBold.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 700;\n\tsrc: url(\"_Quicksand-Bold.ttf\");\n}\n@font-face {\n\tfont-family: Roboto Mono;\n\tfont-weight: 300;\n\tsrc: url(\"_RobotoMono-Light.ttf\");\n}\n\n/* Light Mode */\nhtml, body {\n\tmin-height: 100%;\n\tmargin: 0;\n\tpadding: 0;\n}\nbody {\n\tfont-weight: 300;\n\tfont-family: 'Quicksand', sans-serif;\n\tline-height: 1.5;\n\tcolor: #000000;\n\tbackground-repeat: no-repeat;\n\tbackground-attachment: fixed;\n\t/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+0,d8dee9+100 */\n\tbackground: #ffffff; /* Old browsers */\n\tbackground: -moz-linear-gradient(-45deg,  #ffffff 0%, #d8dee9 100%); /* FF3.6-15 */\n\tbackground: -webkit-linear-gradient(-45deg,  #ffffff 0%,#d8dee9 100%); /* Chrome10-25,Safari5.1-6 */\n\tbackground: linear-gradient(135deg,  #ffffff 0%,#d8dee9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */\n\tfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#d8dee9',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */\n}\n.card-wrap {\n\tmargin: 2em auto;\n\tmax-width: 800px;\n}\n.cardy {\n\tfont-weight: 500;\n\tfont-size: 0.9em;\n\tpadding: 1.2em 1.5em;\n\tmargin: 0 5%;\n\tbackground-color: #ffffff;\n\tborder-radius: 7px;\n\ttext-align: left;\n\tbox-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.25);\n}\n.card-front {\n\tline-height: 1.5em;\n\tfont-size: 1.0em;\n\tbackground-color: #ffffff;\n}\n.question {\n\tborder-radius: 7px 7px 0 0;\n}\n.answer {\n\tborder-radius: 0 0 7px 7px;\n\tfont-size: 12pt;\n}\nhr {\n\tmargin: -1.2em 0 1.2em;\n\tpadding: 0;\n\tborder: 0;\n\theight: 1px;\n\tbackground: #ddd;\n}\n\n/* Declare how images should be displayed */\nimg {\n\tdisplay: inline-block;\n\tmargin: 1.5em auto;\n}\n\n/* Styling for tags */\n.tags {\n\ttransition: opacity 0.2s ease-in-out;\n\tfont-family: 'Roboto Mono';\n\tfont-size: 0.8em;\n\topacity: 0.7;\n\twidth: 100%;\n\ttext-align: center;\n\tposition: fixed;\n\tpadding: 0;\n\ttop:0;\n\tright: 0;\n}\n\n/* Fancy hover animation for tags */\n.tags:hover {\n\topacity: 1; \n\tposition: fixed; \n\ttransition: opacity .2s ease-in-out;\n}\n\n/* Cloze colour for light mode */\n.cloze { \n\tcolor:#bf616a;\n}\n\n/* Night Mode Adjustments */\n.nightMode b {\n\tcolor: #eceff4;\n}\n.nightMode hr {\n\tborder-bottom: 1px solid rgba(255, 255, 255, .15);\n}\n.nightMode.card {\n\tcolor: #ffffff;\n\tbackground-repeat: no-repeat;\n\tbackground-attachment: fixed;\n\t/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#2e3440+0,000000+100 */\n\tbackground: #2e3440; /* Old browsers */\n\tbackground: -moz-linear-gradient(-45deg,  #2e3440 0%, #000000 100%); /* FF3.6-15 */\n\tbackground: -webkit-linear-gradient(-45deg,  #2e3440 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */\n\tbackground: linear-gradient(135deg,  #2e3440 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */\n\tfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2e3440', endColorstr='#000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */\n}\n.nightMode .card-front {\n\tbackground-color: #000000;\n}\n.nightMode .card-back {\n\tbackground-color: #000000;\n}\n\n/* Cloze colour for light mode */\n.nightMode .cloze {\n\tcolor: #ebcb8b;\n}",
             "flds": [
                 {
                     "font": "Arial",
@@ -29576,7 +26785,7 @@
             ],
             "tmpls": [
                 {
-                    "afmt": "{{#Tags}}\n<div class=\"tags\">{{Tags}}</div>\n{{/Tags}}\n<br>\n<!-- question --> \n<div class=\"card-wrap\"> \n<div class=\"cardy card-front\">\n<div class=\"front\">\n{{cloze:Text}}\n</div>\n</div>\n </div>\n</div>\n<!-- question -->\n\n\n",
+                    "afmt": "{{FrontSide}}\n<div class=\"card-wrap\"> \n<div class=\"cardy card-front\">\n<div class=\"front\">\n{{cloze:Text}}\n</div>\n</div>\n</div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -29584,7 +26793,7 @@
                     "did": null,
                     "name": "Cloze",
                     "ord": 0,
-                    "qfmt": "{{#Tags}}\n<div class=\"tags\">{{Tags}}</div>\n{{/Tags}}\n<br>\n<!-- question --> \n<div class=\"card-wrap\"> \n<div class=\"cardy card-front\">\n<div class=\"front\">\n{{cloze:Text}}\n</div>\n</div>\n  </div>\n</div>\n<!-- question -->\n\n"
+                    "qfmt": "{{#Tags}}\n<div class=\"tags\"><b>TAGS:</b> {{Tags}}</div>\n{{/Tags}}\n<br>\n<div class=\"card-wrap\"> \n<div class=\"cardy card-front\">\n<div class=\"front\">\n{{cloze:Text}}\n</div>\n</div>\n</div>\n</div>"
                 }
             ],
             "type": 1
