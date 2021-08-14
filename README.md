@@ -121,9 +121,11 @@ Since this deck uses [CrowdAnki](https://github.com/Stvad/CrowdAnki), anyone wit
 1. If you're completely new to GitHub, you need to [sign up for a new account](https://github.com/signup). For the purpose of this tutorial, I'll be using a dummy account by the name of ``Demo-User-42069``.
 1. Next, download and install [Github desktop](https://desktop.github.com/). 
 1. Open GitHub desktop, and go to ``File > Options`` and click on ``Sign in``. Hit ``Continue with Browser`` on the next dialogue window.
-1. This will open your browser. Choose ``GitHubDesktop.exe`` and click ``Open Link`` ![](https://i.imgur.com/MEimTAu.png). Click ``Authorise`` on the subsequent browser dialogue.
+1. This will open your browser. Choose ``GitHubDesktop.exe`` and click ``Open Link``. Click ``Authorise`` on the subsequent browser dialogue.
+	![](https://i.imgur.com/MEimTAu.png)
 1. Click ``Clone a respository from the Internet``, and enter the URL of this repo, that is, ``https://github.com/Raagaception/raagaception-12STD-CBSE-deck``. Specify the directory where you wish to clone the repository. 
-	- For example, I'm going with ``C:\GitHub Repositories\raagaception-12STD-CBSE-deck``. ![](https://i.imgur.com/1LWdFzW.png)
+	- For example, I'm going with ``C:\GitHub Repositories\raagaception-12STD-CBSE-deck``. 
+		![](https://i.imgur.com/1LWdFzW.png)
 
 ### Exporting as JSON via CrowdAnki
 1. Now comes the slightly confusing part - exporting with CrowdAnki from Anki. Open Anki, and read carefully.
@@ -131,14 +133,21 @@ Since this deck uses [CrowdAnki](https://github.com/Stvad/CrowdAnki), anyone wit
 	- If you wish to add **new cards** to this deck, then put your cards into individual decks categorized by subtopics (try to categorize them to the best of your ability, we'll manage the rest during review). Create a new deck with your account's name, put the subtopic decks under that. Now put the deck with your GitHub username under ``3.GitHub Contributions Held for Review``.
 		- For example, if my GitHub username is ``Demo-User-42069``, and I want to contribute two decks, namely ``Inorganic Group-16`` and ``Vectors``, both meant for JEE aspirants, then this is what my structure should look like : ![](https://i.imgur.com/nyHGMYZ.png). **Please don't put your contributions under any other section, otherwise they'll get overwritten by updates.**
 1. Click the tiny ⚙️ icon to the right of _Raagaception's 12STD CBSE Deck_, and click ``Export``. 
-1. Change the export format to ``CrowdAnki JSON representation (*directory)`` ![](https://i.imgur.com/suu5qSQ.png)
-1. Make sure all settings look exactly like the image below, then hit ``Export...``` ![](https://i.imgur.com/8xXzv82.png)
-1. Export into any directory you wish, and remember the location. 
+1. Change the export format to ``CrowdAnki JSON representation (*directory)`` 
+	![](https://i.imgur.com/suu5qSQ.png)
+1. Make sure all settings look exactly like the image below, then hit ``Export...``
+	![](https://i.imgur.com/8xXzv82.png)
+1. xport into any directory you wish, and remember the location. 
 
 ### Creating a fork and committing changes
-1. Go to the export location, change the name ``deck.json`` to ``raagaception-12STD-CBSE-deck.json``. Then copy all the folder contents. ![](https://i.imgur.com/LCCK7Oy.png)
-1. Open GitHub desktop, and click ``Show in Explorer`` ![](https://i.imgur.com/kmJmG9M.png). Paste the copied files there, and select ``Replace the files in the destination`` when prompted. ![](https://i.imgur.com/Bpji4ck.png)
-1. Now when you open GitHub desktop again, you'll see something like this : ![](https://i.imgur.com/dtcw3rM.png)
+1. Go to the export location, change the name ``deck.json`` to ``raagaception-12STD-CBSE-deck.json``. Then copy all the folder contents. 
+	![](https://i.imgur.com/LCCK7Oy.png)
+1. Open GitHub desktop, and click ``Show in Explorer`` 
+	![](https://i.imgur.com/kmJmG9M.png). 
+1. Paste the copied files there, and select ``Replace the files in the destination`` when prompted. 
+	![](https://i.imgur.com/Bpji4ck.png)
+1. Now when you open GitHub desktop again, you'll see something like this : 
+	![](https://i.imgur.com/dtcw3rM.png)
 1. In the bottom right corner, click ``Create a fork``, and click ``Fork this respository`` on the subsequent dialogue box.
 	![](https://i.imgur.com/zLD5PXg.png)
 1. Select ``To contribute to the parent project`` and click ``Continue``
