@@ -26,7 +26,6 @@ The largest, most comprehensive, community maintained flashcard deck for [Anki](
 - Over **600 cards** from Physics NCERT, spanning topics from effects of electricity to Optics to Semiconductors.
 - Over **500 cards** from Math NCERT, covering most of the equations needed in solving calculus, trigonometry, and various other topics.
 - Community contributions using [CrowdAnki](https://github.com/Stvad/CrowdAnki), so anyone with a GitHub account can fact check cards, provide corrections, and even upload their own cards from any topic, be it for CBSE boards, JEE Mains, or the SATs.
-
 ![](https://i.imgur.com/1fUGGME.gif)
 
 ---
@@ -106,6 +105,10 @@ Here's how to apply the settings I personally use to study this deck, if you nee
 1. Keep in mind that updating the deck **OVERWRITES** all edits and structural changes you might have made to the deck on your end. If you wish to get your changes included in the public version of the deck, check out 
 1. Open Anki, and rename your existing "_Raagaception's 12STD CBSE Deck_" to something like "_OLD Raagaception's 12STD CBSE Deck_"
 1. Now follow the same steps as [**installing the deck for the first time**](#Installing-the-deck-for-the-first-time)
+	- There's a chance you might get a dialogue box which looks something like this
+		![](https://i.imgur.com/qB70Afa.png)
+	- If you get this, simply change the ``New note type`` so it's has the exact same name as the ``Current note type``.
+		![](https://i.imgur.com/iGEcA4h.png)
 1. After the import, you'll notice that all your existing cards have been automatically shifted to "_Raagaception's 12STD CBSE Deck_". At this point you can safely delete the now empty "_OLD Raagaception's 12STD CBSE Deck_".
 1. Close Anki fully and reopen it before doing anything else.
 
