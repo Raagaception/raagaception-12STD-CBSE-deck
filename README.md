@@ -1,8 +1,6 @@
 # Raagaception's 12STD CBSE Deck (Science stream, PCM)
 [AnkiWeb page](https://ankiweb.net/shared/info/1981482084) | [Latest Release](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest) | [Discord Server](https://discord.gg/kbSXsRTUC2)
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 The **ultimate** Anki deck for preparing for Grade 12 CBSE Board Exams in India!
 ![](https://i.imgur.com/Z2EW3NQ.gif)
 
@@ -242,10 +240,7 @@ When you see the following screen, you've successfully submitted your contributi
 
 ## MathJax render script for AnkiWeb users
 If you wish to review your cards on the browser version of AnkiWeb, the MathJax equations in any cards won't get rendered. But by adding the following code to the front and back of the "Basic - Raagaception" and "Cloze - Raagaception" card templates, AnkiWeb will render your MathJax for you : 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
 ```css
 <script type="text/x-mathjax-config">
 MathJax.Hub.processSectionDelay = 0;
