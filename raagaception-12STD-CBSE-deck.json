@@ -4777,7 +4777,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Identify the surface would have greater value of work function in the stopping potential versus frequency graph. <br><img src=\"SHripS3.png\" alt=\"SHripS3.png\">",
+                                                "Identify the surface which has greater value of work function in the stopping potential versus frequency graph. <br><img src=\"SHripS3.png\" alt=\"SHripS3.png\">",
                                                 "\\(M_{2}\\) has greater value of work function, Since it has higher value of threshold frequency."
                                             ],
                                             "guid": "vq%*0$[v-?",
@@ -26621,7 +26621,7 @@
             ],
             "crowdanki_uuid": "39a39015-fb7f-11eb-b5b2-e0d55e85db11",
             "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
-            "desc": "",
+            "desc": "<html>\n<body>\n<h3>Want to get in touch?</h3>\nJoin our <a href=\"https://discord.gg/kbSXsRTUC2\">Discord server</a> or mail at raagaception@gmail.com\n<h3>Want to update your deck to the latest version?</h3>\nCheck out the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest\">latest release</a> on GitHub.\n<h3>Any doubts on how to use this deck?</h3>\nRead the tutorial guide on the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/\">GitHub Repository</a>.\n<h3>Found factual errors in a card?</h3>\n<a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/issues/new?body=%0A%0A%0A---%0A%0AAnki+Note+ID+:%0A\">Submit an issue on GitHub</a> and I&#39;ll check it out immediately. Be sure to include the card ID and note ID of the specific card you find an error in!</li>\n<h3>Want to contribute your corrections and cards in the next update?</h3>\nCheck out the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck\">contribution guide</a> on GitHub\n</body>\n</html>",
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
@@ -26641,7 +26641,7 @@
             "children": [],
             "crowdanki_uuid": "3a084b34-fb7f-11eb-8bbe-e0d55e85db11",
             "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
-            "desc": "",
+            "desc": "<html>\n<body>\n<h3>Want to get in touch?</h3>\nJoin our <a href=\"https://discord.gg/kbSXsRTUC2\">Discord server</a> or mail at raagaception@gmail.com\n<h3>Want to update your deck to the latest version?</h3>\nCheck out the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest\">latest release</a> on GitHub.\n<h3>Any doubts on how to use this deck?</h3>\nRead the tutorial guide on the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/\">GitHub Repository</a>.\n<h3>Found factual errors in a card?</h3>\n<a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/issues/new?body=%0A%0A%0A---%0A%0AAnki+Note+ID+:%0A\">Submit an issue on GitHub</a> and I&#39;ll check it out immediately. Be sure to include the card ID and note ID of the specific card you find an error in!</li>\n<h3>Want to contribute your corrections and cards in the next update?</h3>\nCheck out the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck\">contribution guide</a> on GitHub\n</body>\n</html>",
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
@@ -26655,6 +26655,26 @@
             ],
             "name": "2. JEE",
             "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "99293e9d-fccd-11eb-9d59-e0d55e85db11",
+            "deck_config_uuid": "6fb5f5e9-fcdb-11eb-a062-e0d55e85db11",
+            "desc": "<html>\n<body>\n<h3>Want to get in touch?</h3>\nJoin our <a href=\"https://discord.gg/kbSXsRTUC2\">Discord server</a> or mail at raagaception@gmail.com\n<h3>Want to update your deck to the latest version?</h3>\nCheck out the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest\">latest release</a> on GitHub.\n<h3>Any doubts on how to use this deck?</h3>\nRead the tutorial guide on the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/\">GitHub Repository</a>.\n<h3>Found factual errors in a card?</h3>\n<a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/issues/new?body=%0A%0A%0A---%0A%0AAnki+Note+ID+:%0A\">Submit an issue on GitHub</a> and I&#39;ll check it out immediately. Be sure to include the card ID and note ID of the specific card you find an error in!</li>\n<h3>Want to contribute your corrections and cards in the next update?</h3>\nCheck out the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck\">contribution guide</a> on GitHub\n</body>\n</html>",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "_Quicksand-Bold.ttf",
+                "_Quicksand-Light.ttf",
+                "_Quicksand-Medium.ttf",
+                "_Quicksand-Regular.ttf",
+                "_Quicksand-SemiBold.ttf",
+                "_RobotoMono-Light.ttf"
+            ],
+            "name": "3. GitHub Contributions Held for Review",
+            "notes": []
         }
     ],
     "crowdanki_uuid": "39a16d17-fb7f-11eb-a7f2-e0d55e85db11",
@@ -26662,57 +26682,2956 @@
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
             "autoplay": true,
-            "crowdanki_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
+            "crowdanki_uuid": "6f4ef0ca-fcdb-11eb-a356-e0d55e85db11",
             "dyn": false,
             "interdayLearningMix": 0,
             "lapse": {
                 "delays": [
-                    10.0
+                    60.0,
+                    1440.0
                 ],
                 "leechAction": 1,
-                "leechFails": 8,
+                "leechFails": 6,
                 "minInt": 1,
-                "mult": 0.0
+                "mult": 0.2
             },
             "maxTaken": 60,
-            "name": "Default",
+            "name": "Long Term Review Settings",
             "new": {
-                "bury": false,
+                "bury": true,
                 "delays": [
-                    1.0,
-                    10.0
+                    15.0,
+                    60.0,
+                    1400.0
                 ],
                 "initialFactor": 2500,
                 "ints": [
-                    1,
+                    3,
                     4,
                     0
                 ],
-                "order": 1,
-                "perDay": 20
+                "order": 0,
+                "perDay": 100
             },
-            "newGatherPriority": 0,
-            "newMix": 0,
+            "newGatherPriority": 1,
+            "newMix": 2,
             "newPerDayMinimum": 0,
-            "newSortOrder": 0,
+            "newSortOrder": 5,
             "replayq": true,
             "rev": {
                 "bury": false,
                 "ease4": 1.3,
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f50c5a4-fcdb-11eb-98f6-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f51d723-fcdb-11eb-bb95-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f52e8a6-fcdb-11eb-afbc-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f53fa23-fcdb-11eb-a0f9-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f55f611-fcdb-11eb-ad79-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f584022-fcdb-11eb-9acc-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f5951a0-fcdb-11eb-bf5a-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f5b267a-fcdb-11eb-85d5-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f5c5f7a-fcdb-11eb-a0a2-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f5ea984-fcdb-11eb-87b4-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f5fbaa0-fcdb-11eb-a8b4-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f61dd9e-fcdb-11eb-95c5-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f63b27b-fcdb-11eb-8671-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f64c45e-fcdb-11eb-936c-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f670e71-fcdb-11eb-a958-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f681ff1-fcdb-11eb-95e7-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f697f95-fcdb-11eb-9a7f-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f6b546c-fcdb-11eb-b956-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f6c6586-fcdb-11eb-badf-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f6eaf9a-fcdb-11eb-8683-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f6fc17f-fcdb-11eb-9588-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f70fa11-fcdb-11eb-a8e8-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f720b8f-fcdb-11eb-84da-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f731d0f-fcdb-11eb-b649-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f758e33-fcdb-11eb-ba34-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f77b132-fcdb-11eb-85d2-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f79860e-fcdb-11eb-ab81-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f7b33d6-fcdb-11eb-a630-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f7e8f09-fcdb-11eb-b26f-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f7fa0e8-fcdb-11eb-852b-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f851f1f-fcdb-11eb-b747-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f86a5d7-fcdb-11eb-bddf-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f87b759-fcdb-11eb-916f-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f8ac4c5-fcdb-11eb-a9d7-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f8f0ac5-fcdb-11eb-9bd2-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f939ef2-fcdb-11eb-b8b3-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f95c1ea-fcdb-11eb-a026-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f96d374-fcdb-11eb-88bc-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f97e4dd-fcdb-11eb-b1d0-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f994483-fcdb-11eb-8183-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f9a5602-fcdb-11eb-bab3-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f9bdcbc-fcdb-11eb-a845-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f9dd89d-fcdb-11eb-a4d6-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6f9f112f-fcdb-11eb-b3ad-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6fa097e3-fcdb-11eb-916f-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6fa21ea5-fcdb-11eb-8e4a-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6fa33026-fcdb-11eb-bf19-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6fa52c0f-fcdb-11eb-ab84-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6fa74f11-fcdb-11eb-a06b-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6fa8fcd9-fcdb-11eb-b13a-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6faa0eb6-fcdb-11eb-b44e-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6fad1bbe-fcdb-11eb-8579-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6faf6636-fcdb-11eb-9bcd-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6fb077b7-fcdb-11eb-b23a-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6fb1fe6c-fcdb-11eb-8f7f-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6fb30fee-fcdb-11eb-a0d9-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6fb4e4c8-fcdb-11eb-96c0-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "6fb5f5e9-fcdb-11eb-a062-e0d55e85db11",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    60.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 6,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Long Term Review Settings",
+            "new": {
+                "bury": true,
+                "delays": [
+                    15.0,
+                    60.0,
+                    1400.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 1,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
             },
             "reviewOrder": 0,
             "timer": 0
         }
     ],
-    "desc": "<html>  \n<body>\n<ul>\n<li><strong>Wish to update your deck to the latest version?</strong>\n  Check out the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest\">latest release</a>.</li>\n<li><strong>Any doubts on how to use the deck?</strong>\n  Check out the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/\">GitHub Repository</a> for instructions, or join the <a href=\"https://discord.gg/kbSXsRTUC2\">Discord server</a> and ask me personally.</li>\n<li><strong>Found factual errors in a card?</strong>\n  <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/issues/new?body=%0A%0A%0A---%0A%0AAnki+Card+ID+:%0AAnki+Note+ID+:%0A\">Submit an issue on GitHub</a> and I&#39;ll check it out immediately. Be sure to include the card ID and note ID of the specific card you find an error in!</li>\n</ul>\n</body>\n</html>",
+    "desc": "<html>\n<body>\n<h3>Want to get in touch?</h3>\nJoin our <a href=\"https://discord.gg/kbSXsRTUC2\">Discord server</a> or mail at raagaception@gmail.com\n<h3>Want to update your deck to the latest version?</h3>\nCheck out the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest\">latest release</a> on GitHub.\n<h3>Any doubts on how to use this deck?</h3>\nRead the tutorial guide on the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/\">GitHub Repository</a>.\n<h3>Found factual errors in a card?</h3>\n<a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/issues/new?body=%0A%0A%0A---%0A%0AAnki+Note+ID+:%0A\">Submit an issue on GitHub</a> and I&#39;ll check it out immediately. Be sure to include the card ID and note ID of the specific card you find an error in!</li>\n<h3>Want to contribute your corrections and cards in the next update?</h3>\nCheck out the <a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck\">contribution guide</a> on GitHub\n</body>\n</html>",
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
@@ -26729,7 +29648,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "39a78852-fb7f-11eb-a1b0-e0d55e85db11",
-            "css": "/* Importing fonts from local media folder */\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 300;\n\tsrc: url(\"_Quicksand-Light.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 400;\n\tsrc: url(\"_Quicksand-Regular.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 500;\n\tsrc: url(\"_Quicksand-Medium.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 600;\n\tsrc: url(\"_Quicksand-SemiBold.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 700;\n\tsrc: url(\"_Quicksand-Bold.ttf\");\n}\n@font-face {\n\tfont-family: Roboto Mono;\n\tfont-weight: 300;\n\tsrc: url(\"_RobotoMono-Light.ttf\");\n}\n\n/* Light Mode */\nhtml, body {\n\tmin-height: 100%;\n\tmargin: 0;\n\tpadding: 0;\n}\nbody {\n\tfont-weight: 300;\n\tfont-family: 'Quicksand', sans-serif;\n\tline-height: 1.5;\n\tcolor: #000000;\n\tbackground-repeat: no-repeat;\n\tbackground-attachment: fixed;\n\t/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+0,d8dee9+100 */\n\tbackground: #ffffff; /* Old browsers */\n\tbackground: -moz-linear-gradient(-45deg,  #ffffff 0%, #d8dee9 100%); /* FF3.6-15 */\n\tbackground: -webkit-linear-gradient(-45deg,  #ffffff 0%,#d8dee9 100%); /* Chrome10-25,Safari5.1-6 */\n\tbackground: linear-gradient(135deg,  #ffffff 0%,#d8dee9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */\n\tfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#d8dee9',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */\n}\n.card-wrap {\n\tmargin: 2em auto;\n\tmax-width: 800px;\n}\n.cardy {\n\tfont-weight: 500;\n\tfont-size: 0.9em;\n\tpadding: 1.2em 1.5em;\n\tmargin: 0 5%;\n\tbackground-color: #ffffff;\n\tborder-radius: 7px;\n\ttext-align: left;\n\tbox-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.25);\n}\n.card-front {\n\tline-height: 1.5em;\n\tfont-size: 1.0em;\n\tbackground-color: #ffffff;\n}\n.question {\n\tborder-radius: 7px 7px 0 0;\n}\n.answer {\n\tborder-radius: 0 0 7px 7px;\n\tfont-size: 12pt;\n}\nhr {\n\tmargin: -1.2em 0 1.2em;\n\tpadding: 0;\n\tborder: 0;\n\theight: 1px;\n\tbackground: #ddd;\n}\n\n/* Declare how images should be displayed */\nimg {\n\tdisplay: inline-block;\n\tmargin: 1.5em auto;\n}\n\n/* Styling for tags */\n.tags {\n\ttransition: opacity 0.2s ease-in-out;\n\tfont-family: 'Roboto Mono';\n\tfont-size: 0.8em;\n\topacity: 0.7;\n\twidth: 100%;\n\ttext-align: center;\n\tposition: fixed;\n\tpadding: 0;\n\ttop:0;\n\tright: 0;\n}\n\n/* Fancy hover animation for tags */\n.tags:hover {\n\topacity: 1; \n\tposition: fixed; \n\ttransition: opacity .2s ease-in-out;\n}\n\n/* Night Mode Adjustments */\n.nightMode b {\n\tcolor: #eceff4;\n}\n.nightMode hr {\n\tborder-bottom: 1px solid rgba(255, 255, 255, .15);\n}\n.nightMode.card {\n\tcolor: #ffffff;\n\tbackground-repeat: no-repeat;\n\tbackground-attachment: fixed;\n\t/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#2e3440+0,000000+100 */\n\tbackground: #2e3440; /* Old browsers */\n\tbackground: -moz-linear-gradient(-45deg,  #2e3440 0%, #000000 100%); /* FF3.6-15 */\n\tbackground: -webkit-linear-gradient(-45deg,  #2e3440 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */\n\tbackground: linear-gradient(135deg,  #2e3440 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */\n\tfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2e3440', endColorstr='#000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */\n}\n.nightMode .card-front {\n\tbackground-color: #000000;\n}\n.nightMode .card-back {\n\tbackground-color: #000000;\n}",
+            "css": "/* Importing fonts from local media folder */\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 300;\n\tsrc: url(\"_Quicksand-Light.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 400;\n\tsrc: url(\"_Quicksand-Regular.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 500;\n\tsrc: url(\"_Quicksand-Medium.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 600;\n\tsrc: url(\"_Quicksand-SemiBold.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 700;\n\tsrc: url(\"_Quicksand-Bold.ttf\");\n}\n@font-face {\n\tfont-family: Roboto Mono;\n\tfont-weight: 300;\n\tsrc: url(\"_RobotoMono-Light.ttf\");\n}\n\n/* Light Mode */\nhtml, body {\n\tmin-height: 100%;\n\tmargin: 0;\n\tpadding: 0;\n}\nbody {\n\tfont-weight: 300;\n\tfont-family: 'Quicksand', sans-serif;\n\tline-height: 1.5;\n\tcolor: #000000;\n\tbackground-repeat: no-repeat;\n\tbackground-attachment: fixed;\n\t/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+0,d8dee9+100 */\n\tbackground: #ffffff; /* Old browsers */\n\tbackground: -moz-linear-gradient(-45deg,  #ffffff 0%, #d8dee9 100%); /* FF3.6-15 */\n\tbackground: -webkit-linear-gradient(-45deg,  #ffffff 0%,#d8dee9 100%); /* Chrome10-25,Safari5.1-6 */\n\tbackground: linear-gradient(135deg,  #ffffff 0%,#d8dee9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */\n\tfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#d8dee9',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */\n}\n.card-wrap {\n\tmargin: 2em auto;\n\tmax-width: 800px;\n}\n.cardy {\n\tfont-weight: 500;\n\tfont-size: 0.9em;\n\tpadding: 1.2em 1.5em;\n\tmargin: 0 5%;\n\tbackground-color: #ffffff;\n\tborder-radius: 7px;\n\ttext-align: left;\n\tbox-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.25);\n}\n.card-front {\n\tline-height: 1.5em;\n\tfont-size: 1.2em;\n\tbackground-color: #ffffff;\n}\n.question {\n\tborder-radius: 7px 7px 0 0;\n}\n.answer {\n\tborder-radius: 0 0 7px 7px;\n\tfont-size: 12pt;\n}\nhr {\n\tmargin: -1.2em 0 1.2em;\n\tpadding: 0;\n\tborder: 0;\n\theight: 1px;\n\tbackground: #ddd;\n}\n\n/* Declare how images should be displayed */\nimg {\n\tdisplay: inline-block;\n\tmargin: 1.5em auto;\n}\n\n/* Styling for tags */\n.tags {\n\ttransition: opacity 0.2s ease-in-out;\n\tfont-family: 'Roboto Mono';\n\tfont-size: 1.0em;\n\topacity: 0.7;\n\twidth: 100%;\n\ttext-align: center;\n\tposition: fixed;\n\tpadding: 0;\n\ttop:0;\n\tright: 0;\n}\n\n/* Fancy hover animation for tags */\n.tags:hover {\n\topacity: 1; \n\tposition: fixed; \n\ttransition: opacity .2s ease-in-out;\n}\n\n/* Night Mode Adjustments */\n.nightMode b {\n\tcolor: #eceff4;\n}\n.nightMode hr {\n\tborder-bottom: 1px solid rgba(255, 255, 255, .15);\n}\n.nightMode.card {\n\tcolor: #ffffff;\n\tbackground-repeat: no-repeat;\n\tbackground-attachment: fixed;\n\t/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#2e3440+0,000000+100 */\n\tbackground: #2e3440; /* Old browsers */\n\tbackground: -moz-linear-gradient(-45deg,  #2e3440 0%, #000000 100%); /* FF3.6-15 */\n\tbackground: -webkit-linear-gradient(-45deg,  #2e3440 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */\n\tbackground: linear-gradient(135deg,  #2e3440 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */\n\tfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2e3440', endColorstr='#000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */\n}\n.nightMode .card-front {\n\tbackground-color: #000000;\n}\n.nightMode .card-back {\n\tbackground-color: #000000;\n}",
             "flds": [
                 {
                     "font": "Arial",
@@ -26781,7 +29700,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "39a7d678-fb7f-11eb-bb7c-e0d55e85db11",
-            "css": "/* Importing fonts from local media folder */\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 300;\n\tsrc: url(\"_Quicksand-Light.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 400;\n\tsrc: url(\"_Quicksand-Regular.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 500;\n\tsrc: url(\"_Quicksand-Medium.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 600;\n\tsrc: url(\"_Quicksand-SemiBold.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 700;\n\tsrc: url(\"_Quicksand-Bold.ttf\");\n}\n@font-face {\n\tfont-family: Roboto Mono;\n\tfont-weight: 300;\n\tsrc: url(\"_RobotoMono-Light.ttf\");\n}\n\n/* Light Mode */\nhtml, body {\n\tmin-height: 100%;\n\tmargin: 0;\n\tpadding: 0;\n}\nbody {\n\tfont-weight: 300;\n\tfont-family: 'Quicksand', sans-serif;\n\tline-height: 1.5;\n\tcolor: #000000;\n\tbackground-repeat: no-repeat;\n\tbackground-attachment: fixed;\n\t/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+0,d8dee9+100 */\n\tbackground: #ffffff; /* Old browsers */\n\tbackground: -moz-linear-gradient(-45deg,  #ffffff 0%, #d8dee9 100%); /* FF3.6-15 */\n\tbackground: -webkit-linear-gradient(-45deg,  #ffffff 0%,#d8dee9 100%); /* Chrome10-25,Safari5.1-6 */\n\tbackground: linear-gradient(135deg,  #ffffff 0%,#d8dee9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */\n\tfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#d8dee9',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */\n}\n.card-wrap {\n\tmargin: 2em auto;\n\tmax-width: 800px;\n}\n.cardy {\n\tfont-weight: 500;\n\tfont-size: 0.9em;\n\tpadding: 1.2em 1.5em;\n\tmargin: 0 5%;\n\tbackground-color: #ffffff;\n\tborder-radius: 7px;\n\ttext-align: left;\n\tbox-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.25);\n}\n.card-front {\n\tline-height: 1.5em;\n\tfont-size: 1.0em;\n\tbackground-color: #ffffff;\n}\n.question {\n\tborder-radius: 7px 7px 0 0;\n}\n.answer {\n\tborder-radius: 0 0 7px 7px;\n\tfont-size: 12pt;\n}\nhr {\n\tmargin: -1.2em 0 1.2em;\n\tpadding: 0;\n\tborder: 0;\n\theight: 1px;\n\tbackground: #ddd;\n}\n\n/* Declare how images should be displayed */\nimg {\n\tdisplay: inline-block;\n\tmargin: 1.5em auto;\n}\n\n/* Styling for tags */\n.tags {\n\ttransition: opacity 0.2s ease-in-out;\n\tfont-family: 'Roboto Mono';\n\tfont-size: 0.8em;\n\topacity: 0.7;\n\twidth: 100%;\n\ttext-align: center;\n\tposition: fixed;\n\tpadding: 0;\n\ttop:0;\n\tright: 0;\n}\n\n/* Fancy hover animation for tags */\n.tags:hover {\n\topacity: 1; \n\tposition: fixed; \n\ttransition: opacity .2s ease-in-out;\n}\n\n/* Cloze colour for light mode */\n.cloze { \n\tcolor:#bf616a;\n}\n\n/* Night Mode Adjustments */\n.nightMode b {\n\tcolor: #eceff4;\n}\n.nightMode hr {\n\tborder-bottom: 1px solid rgba(255, 255, 255, .15);\n}\n.nightMode.card {\n\tcolor: #ffffff;\n\tbackground-repeat: no-repeat;\n\tbackground-attachment: fixed;\n\t/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#2e3440+0,000000+100 */\n\tbackground: #2e3440; /* Old browsers */\n\tbackground: -moz-linear-gradient(-45deg,  #2e3440 0%, #000000 100%); /* FF3.6-15 */\n\tbackground: -webkit-linear-gradient(-45deg,  #2e3440 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */\n\tbackground: linear-gradient(135deg,  #2e3440 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */\n\tfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2e3440', endColorstr='#000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */\n}\n.nightMode .card-front {\n\tbackground-color: #000000;\n}\n.nightMode .card-back {\n\tbackground-color: #000000;\n}\n\n/* Cloze colour for light mode */\n.nightMode .cloze {\n\tcolor: #ebcb8b;\n}",
+            "css": "/* Importing fonts from local media folder */\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 300;\n\tsrc: url(\"_Quicksand-Light.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 400;\n\tsrc: url(\"_Quicksand-Regular.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 500;\n\tsrc: url(\"_Quicksand-Medium.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 600;\n\tsrc: url(\"_Quicksand-SemiBold.ttf\");\n}\n@font-face {\n\tfont-family: Quicksand;\n\tfont-weight: 700;\n\tsrc: url(\"_Quicksand-Bold.ttf\");\n}\n@font-face {\n\tfont-family: Roboto Mono;\n\tfont-weight: 300;\n\tsrc: url(\"_RobotoMono-Light.ttf\");\n}\n\n/* Light Mode */\nhtml, body {\n\tmin-height: 100%;\n\tmargin: 0;\n\tpadding: 0;\n}\nbody {\n\tfont-weight: 300;\n\tfont-family: 'Quicksand', sans-serif;\n\tline-height: 1.5;\n\tcolor: #000000;\n\tbackground-repeat: no-repeat;\n\tbackground-attachment: fixed;\n\t/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+0,d8dee9+100 */\n\tbackground: #ffffff; /* Old browsers */\n\tbackground: -moz-linear-gradient(-45deg,  #ffffff 0%, #d8dee9 100%); /* FF3.6-15 */\n\tbackground: -webkit-linear-gradient(-45deg,  #ffffff 0%,#d8dee9 100%); /* Chrome10-25,Safari5.1-6 */\n\tbackground: linear-gradient(135deg,  #ffffff 0%,#d8dee9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */\n\tfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#d8dee9',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */\n}\n.card-wrap {\n\tmargin: 2em auto;\n\tmax-width: 800px;\n}\n.cardy {\n\tfont-weight: 500;\n\tfont-size: 0.9em;\n\tpadding: 1.2em 1.5em;\n\tmargin: 0 5%;\n\tbackground-color: #ffffff;\n\tborder-radius: 7px;\n\ttext-align: left;\n\tbox-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.25);\n}\n.card-front {\n\tline-height: 1.5em;\n\tfont-size: 1.2em;\n\tbackground-color: #ffffff;\n}\n.question {\n\tborder-radius: 7px 7px 0 0;\n}\n.answer {\n\tborder-radius: 0 0 7px 7px;\n\tfont-size: 12pt;\n}\nhr {\n\tmargin: -1.2em 0 1.2em;\n\tpadding: 0;\n\tborder: 0;\n\theight: 1px;\n\tbackground: #ddd;\n}\n\n/* Declare how images should be displayed */\nimg {\n\tdisplay: inline-block;\n\tmargin: 1.5em auto;\n}\n\n/* Styling for tags */\n.tags {\n\ttransition: opacity 0.2s ease-in-out;\n\tfont-family: 'Roboto Mono';\n\tfont-size: 1.0em;\n\topacity: 0.7;\n\twidth: 100%;\n\ttext-align: center;\n\tposition: fixed;\n\tpadding: 0;\n\ttop:0;\n\tright: 0;\n}\n\n/* Fancy hover animation for tags */\n.tags:hover {\n\topacity: 1; \n\tposition: fixed; \n\ttransition: opacity .2s ease-in-out;\n}\n\n/* Cloze colour for light mode */\n.cloze { \n\tcolor:#bf616a;\n}\n\n/* Night Mode Adjustments */\n.nightMode b {\n\tcolor: #eceff4;\n}\n.nightMode hr {\n\tborder-bottom: 1px solid rgba(255, 255, 255, .15);\n}\n.nightMode.card {\n\tcolor: #ffffff;\n\tbackground-repeat: no-repeat;\n\tbackground-attachment: fixed;\n\t/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#2e3440+0,000000+100 */\n\tbackground: #2e3440; /* Old browsers */\n\tbackground: -moz-linear-gradient(-45deg,  #2e3440 0%, #000000 100%); /* FF3.6-15 */\n\tbackground: -webkit-linear-gradient(-45deg,  #2e3440 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */\n\tbackground: linear-gradient(135deg,  #2e3440 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */\n\tfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2e3440', endColorstr='#000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */\n}\n.nightMode .card-front {\n\tbackground-color: #000000;\n}\n.nightMode .card-back {\n\tbackground-color: #000000;\n}\n\n/* Cloze colour for light mode */\n.nightMode .cloze {\n\tcolor: #ebcb8b;\n}",
             "flds": [
                 {
                     "font": "Arial",
