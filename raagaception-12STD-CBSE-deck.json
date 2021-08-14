@@ -26655,6 +26655,88 @@
             ],
             "name": "2. JEE",
             "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "992b6199-fccd-11eb-a3d2-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
+                            ],
+                            "name": "JEE Inorganic Group-16",
+                            "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "992c7386-fccd-11eb-9385-e0d55e85db11",
+                            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "_Quicksand-Bold.ttf",
+                                "_Quicksand-Light.ttf",
+                                "_Quicksand-Medium.ttf",
+                                "_Quicksand-Regular.ttf",
+                                "_Quicksand-SemiBold.ttf",
+                                "_RobotoMono-Light.ttf"
+                            ],
+                            "name": "JEE Vectors",
+                            "notes": []
+                        }
+                    ],
+                    "crowdanki_uuid": "992a501c-fccd-11eb-916f-e0d55e85db11",
+                    "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "_Quicksand-Bold.ttf",
+                        "_Quicksand-Light.ttf",
+                        "_Quicksand-Medium.ttf",
+                        "_Quicksand-Regular.ttf",
+                        "_Quicksand-SemiBold.ttf",
+                        "_RobotoMono-Light.ttf"
+                    ],
+                    "name": "Demo-User-42069",
+                    "notes": []
+                }
+            ],
+            "crowdanki_uuid": "99293e9d-fccd-11eb-9d59-e0d55e85db11",
+            "deck_config_uuid": "3a0872a5-fb7f-11eb-8f65-e0d55e85db11",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "_Quicksand-Bold.ttf",
+                "_Quicksand-Light.ttf",
+                "_Quicksand-Medium.ttf",
+                "_Quicksand-Regular.ttf",
+                "_Quicksand-SemiBold.ttf",
+                "_RobotoMono-Light.ttf"
+            ],
+            "name": "3. GitHub Contributions Held for Review",
+            "notes": []
         }
     ],
     "crowdanki_uuid": "39a16d17-fb7f-11eb-a7f2-e0d55e85db11",
