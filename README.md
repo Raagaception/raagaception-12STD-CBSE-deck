@@ -26,7 +26,8 @@ The largest, most comprehensive, community maintained flashcard deck for [Anki](
 - Over **600 cards** from Physics NCERT, spanning topics from effects of electricity to Optics to Semiconductors.
 - Over **500 cards** from Math NCERT, covering most of the equations needed in solving calculus, trigonometry, and various other topics.
 - Community contributions using [CrowdAnki](https://github.com/Stvad/CrowdAnki), so anyone with a GitHub account can fact check cards, provide corrections, and even upload their own cards from any topic, be it for CBSE boards, JEE Mains, or the SATs.
-![](https://i.imgur.com/Z2EW3NQ.gif)
+
+![](https://i.imgur.com/1fUGGME.gif)
 
 ---
 
