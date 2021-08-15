@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1188" height="579">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g display="inline">
+  <title>Labels</title>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="414.33095" y="142.21723" id="9500820541d44c93a912621146425b3b-ao-3" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" transform="rotate(-27.485614776611328 414.32812499999994,133.890625) ">a(bridge)</text>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="765.22381" y="373.46723" id="9500820541d44c93a912621146425b3b-ao-4" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" transform="rotate(39.51374816894531 765.2198486328125,365.1462097167968) ">b(unshared)</text>
+ </g>
+ <g display="inline">
+  <title>Masks</title>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="390.2238" y="144.00294" width="71.42857" height="29.46429" id="9500820541d44c93a912621146425b3b-ao-1" transform="rotate(-28.35492515563965 425.93807983398426,158.73509216308597) "/>
+  
+  <rect fill="#FFEBA2" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="540.22381" y="239.53866" width="66.96429" height="31.25" id="9500820541d44c93a912621146425b3b-ao-5"/>
+ </g>
+</svg>
