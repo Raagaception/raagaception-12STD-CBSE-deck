@@ -102,15 +102,15 @@ Here's how to apply the settings I personally use to study this deck, if you nee
 
 ## Updating to a new version of the deck
 
-1. Keep in mind that updating the deck **OVERWRITES** all edits and structural changes you might have made to the deck on your end. If you wish to get your changes included in the public version of the deck, check out how to [contribute your edits for the next update](#contributing-your-own-cards-and-edits-to-this-deck).
+1. Keep in mind that updating the deck **OVERWRITES** all edits and structural changes you might have made to the deck on your end. If you wish to get your changes included in the public version of the deck, check out [how to contribute your edits for the next update](#contributing-your-own-cards-and-edits-to-this-deck).
 1. Open Anki, and rename your existing "_Raagaception's 12STD CBSE Deck_" to something like "_OLD Raagaception's 12STD CBSE Deck_"
 1. Now follow the same steps as [**installing the deck for the first time**](#Installing-the-deck-for-the-first-time)
-	- There's a chance you might get a dialogue box which looks something like this
+	- There's a chance you might get a dialogue box which looks similar to this :
 		![](https://i.imgur.com/qB70Afa.png)
-	- If you get this, simply change the ``New note type`` so it's has the exact same name as the ``Current note type``.
+	- If you get this, simply change the ``New note type`` to ``Basic-Raagaception`` if it's a basic card type (that is, has the fields ``Front`` and ``Back``) or to ``Cloze - Raagaception`` if it's a cloze card type (that is, it has the fields ``Text`` and ``Extra``)
 		![](https://i.imgur.com/iGEcA4h.png)
 1. After the import, you'll notice that all your existing cards have been automatically shifted to "_Raagaception's 12STD CBSE Deck_". At this point you can safely delete the now empty "_OLD Raagaception's 12STD CBSE Deck_".
-1. Close Anki fully and reopen it before doing anything else.
+2. Close Anki fully and reopen it before doing anything else.
 
 👉 To stay informed of new releases, make sure to [watch this repository's releases](https://help.github.com/en/articles/watching-and-unwatching-releases-for-a-repository), or join us on our [Discord server](https://discord.gg/kbSXsRTUC2) to get pinged whenever new updates are release.
 
