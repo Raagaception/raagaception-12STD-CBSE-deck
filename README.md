@@ -70,23 +70,23 @@ Here's how to apply the settings I personally use to study this deck, if you nee
 1. Here's how I set my settings for when I was studying for my CBSE 12th boards. The settings in **bold** have to be compulsorily copied as it is, at least for using this particular deck. Feel free to tailor the rest of the settings to your needs, as you see fit :
 #### Daily Limits
 - New cards/day = ``100`` (Depends on how close your exam is. Take the total number of cards in deck, divide it by the number of days left to your next major exam - you'll get the number which can roughly tell you what to set new cards per day to.)
-- **Maximum reviews/day** (IMPORTANT!) = ``9999`` (Set this to the maximum number possible so as to not impede Anki's algorithm. Finish all available reviews daily if you want to utilize Anki to it's max.)
+- **Maximum reviews/day** (MANDATORY!) = ``9999`` (Set this to the maximum number possible so as to not impede Anki's algorithm. Finish all available reviews daily if you want to utilize Anki to it's max.)
 #### New Cards
 - Learning steps = ``15m 1h 1400m``
 - Graduating Interval = ``3``
 - Easy Interval = ``4``
-- **Insertion order** (IMPORTANT!) = ``Random``
+- **Insertion order** (MANDATORY!) = ``Random``
 #### Lapses
 - Relearning steps = ``1h 1d``
 - Minimum interval = ``1``
 - Leech threshold = ``6`` (This declares the number of times you've to get a card wrong for Anki to declare it as a Leech)
-- **Leech Action** (IMPORTANT!) = ``Tag Only``
+- **Leech Action** (MANDATORY!) = ``Tag Only``
 #### Display Order
-- **New card gather priority** (IMPORTANT!) = ``Ascending position``
-- **New card sort order** (IMPORTANT!) = ``Random``
+- **New card gather priority** (MANDATORY!) = ``Ascending position``
+- **New card sort order** (MANDATORY!) = ``Random``
 - New/review priority = ``Show before reviews``
 - Interday learning/review priority = ``Mix with reviews``
-- **Review sort order** (IMPORTANT!) = ``Due date, then random``
+- **Review sort order** (MANDATORY!) = ``Due date, then random``
 #### Burying
 - Bury new siblings until the next day = ``On``
 - Bury review siblings until the next day = ``Off``
@@ -102,7 +102,7 @@ Here's how to apply the settings I personally use to study this deck, if you nee
 
 ## Updating to a new version of the deck
 
-1. Keep in mind that updating the deck **OVERWRITES** all edits and structural changes you might have made to the deck on your end. If you wish to get your changes included in the public version of the deck, check out 
+1. Keep in mind that updating the deck **OVERWRITES** all edits and structural changes you might have made to the deck on your end. If you wish to get your changes included in the public version of the deck, check out how to [contribute your edits for the next update](#contributing-your-own-cards-and-edits-to-this-deck).
 1. Open Anki, and rename your existing "_Raagaception's 12STD CBSE Deck_" to something like "_OLD Raagaception's 12STD CBSE Deck_"
 1. Now follow the same steps as [**installing the deck for the first time**](#Installing-the-deck-for-the-first-time)
 	- There's a chance you might get a dialogue box which looks something like this
