@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "54d4c792a88f6f10",
+        "id": "f9a0886e6be80065",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -12,44 +12,7 @@
             "file": "Anki Deck Description HTML.md",
             "mode": "source"
           }
-        },
-        "group": "a009f646a37d7903"
-      },
-      {
-        "id": "6e3f4b6bb8e89564",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Anki Deck Description HTML.md",
-            "mode": "preview"
-          }
-        },
-        "group": "a009f646a37d7903"
-      },
-      {
-        "id": "056785f532bb73e9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
-        },
-        "group": "2b695d0dff9b08fe"
-      },
-      {
-        "id": "7d41fa57e99e418a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "preview"
-          }
-        },
-        "group": "2b695d0dff9b08fe"
+        }
       }
     ],
     "direction": "vertical"
@@ -123,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54d4c792a88f6f10",
+  "active": "f9a0886e6be80065",
   "lastOpenFiles": [
     "Anki Deck Description HTML.md",
-    "README.md",
-    "GitHub Release Format.md",
+    "Commands for Cleaning up JSON.md",
     "Untitled.md",
+    "Commands for cleaning deck.md",
+    "GitHub Release Format.md",
     "AnkiWeb Deck Description HTML.md",
+    "README.md",
     "ankisrs.net.md",
     "Ultimate Geography.md",
-    "Anki Deck Description.md",
-    "www.ankisrs.net.md"
+    "Anki Deck Description.md"
   ]
 }
