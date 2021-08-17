@@ -21,7 +21,7 @@
 ---
 
 ## Introduction
-The largest, most comprehensive, community maintained flashcard deck for [Anki](http://ankisrs.net/) on the internet, featuring:
+The largest, most comprehensive, community maintained flashcard deck for [Anki](http://ankisrs.net/) on the internet, featuring
 - Over **500+ cards** from 11th grade NCERT, and **2600+ cards** from 12th grade Chemistry NCERT; painstakingly covering Organic Chemistry, Inorganic Chemistry, and Physical Chemistry.
 - Over **600+ cards** from 12th Physics NCERT, spanning topics from Effects of Electricity, to Optics, to Semiconductors, and various other topics.
 - Over **500+ cards** from Math NCERT, covering most of the equations needed in solving calculus, trigonometry, and various other topics.
