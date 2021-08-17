@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Anki Deck Description HTML.md",
+            "file": "README.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "2966fbd6c6fcd9a6"
+      },
+      {
+        "id": "c510929a99be7192",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        },
+        "group": "2966fbd6c6fcd9a6"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki Deck Description HTML.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +101,13 @@
   },
   "active": "f9a0886e6be80065",
   "lastOpenFiles": [
+    "README.md",
     "Anki Deck Description HTML.md",
     "Commands for Cleaning up JSON.md",
     "Untitled.md",
     "Commands for cleaning deck.md",
     "GitHub Release Format.md",
     "AnkiWeb Deck Description HTML.md",
-    "README.md",
     "ankisrs.net.md",
     "Ultimate Geography.md",
     "Anki Deck Description.md"
