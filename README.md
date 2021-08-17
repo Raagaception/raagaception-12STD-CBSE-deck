@@ -21,11 +21,11 @@
 ---
 
 ## Introduction
-The largest, most comprehensive, community maintained flashcard deck for [Anki](http://ankisrs.net/) on the internet, featuring:
-- Over **1600 cards** from Chemistry NCERT, spanning Organic Chemistry, Inorganic Chemistry, and Physical Chemistry.
-- Over **600 cards** from Physics NCERT, spanning topics from effects of electricity to Optics to Semiconductors.
-- Over **500 cards** from Math NCERT, covering most of the equations needed in solving calculus, trigonometry, and various other topics.
-- Community contributions using [CrowdAnki](https://github.com/Stvad/CrowdAnki), so anyone with a GitHub account can fact check cards, provide corrections, and even upload their own cards from any topic, be it for CBSE boards, JEE Mains, or the SATs.
+The largest, most comprehensive, community maintained flashcard deck for [Anki](http://ankisrs.net/) on the internet, featuring
+- Over **500+ cards** from 11th grade NCERT, and **2600+ cards** from 12th grade Chemistry NCERT; painstakingly covering Organic Chemistry, Inorganic Chemistry, and Physical Chemistry.
+- Over **600+ cards** from 12th Physics NCERT, spanning topics from Effects of Electricity, to Optics, to Semiconductors, and various other topics.
+- Over **500+ cards** from Math NCERT, covering most of the equations needed in solving calculus, trigonometry, and various other topics.
+- Community contributions using [CrowdAnki](https://github.com/Stvad/CrowdAnki), so anyone with a GitHub account can fact check cards, provide corrections, and even upload their own cards from any topic, be it for CBSE boards, JEE Mains, or the SATs!
 ![](https://i.imgur.com/1fUGGME.gif)
 
 ---
@@ -46,71 +46,51 @@ You're now ready to install the deck itself!
 ### Installing the deck for the first time
 
 1. Open Anki, go to the ``File`` menu and select ``CrowdAnki: Import git repository``.
-1. In the dialog box, paste in the link to this repository : ``https://github.com/Raagaception/raagaception-12STD-CBSE-deck``. Wait for a little while as CrowdAnki imports the deck for you. **Don't panic if Windows shows that Anki isn't responding**, just give it a little time.
+1. In the dialog box, paste in the link to this repository : ``https://github.com/Raagaception/raagaception-12STD-CBSE-deck``. Wait for a little while as CrowdAnki imports the deck for you. **Don't panic if Windows shows that Anki isn't responding**, just give it time.
 1. Don't change anything in the _CrowdAnki Import Settings_ dialog box that opens; just press ``OK`` to start the import. A dialog box should then confirm that the import was successful.
 1. The deck must now be visible on your profile. Close Anki fully and reopen it before doing anything else.
 
 ### Selectively studying from desired topics
 You don't need to study everything in the deck, just study what you WANT to; since the deck is painstakingly arranged topic-by-topic, and chapter-by-chapter.
 Here's how to go about studying by utilizing that to your advantage :
-1) Open the "Browse" window and scroll down the left pane.
-1) Under the ``Decks`` section, click on ``Raagaception's 12STD CBSE Deck``. This will now display a list of the thousands of cards available in the deck.
-1) Select all cards in browser with ``(Ctrl+A)``, then suspend ALL the cards in the deck - this will result in none of the cards showing up in your review queue. Note that all suspended cards are represented in the browser as yellowed-out cards.
-1) Expand the ``Raagaception's 12STD CBSE Deck`` listing by using the arrow icon. Keep expanding the list to reveal more and more subtopics.
-1) When you find the ones you want to unsuspend, select the listing, which will bring up the cards from **that topic only**. Press ``Ctrl+A`` to select all cards in the browser, and ``Ctrl+J`` to unsuspend them. 
-1) You can now close the browser and review the cards normally, until you wish to unlock newer topics. To do that, just repeat all the steps from step 4).
+1. Open the "Browse" window and scroll down the left pane.
+1. Under the ``Decks`` section, click on ``Raagaception's 12STD CBSE Deck``. This will now display a list of the thousands of cards available in the deck.
+1. Select all cards in browser with ``(Ctrl+A)``, then suspend ALL the cards in the deck - this will result in none of the cards showing up in your review queue. Note that all suspended cards are represented in the browser as yellowed-out cards.
+1. Expand the ``Raagaception's 12STD CBSE Deck`` listing by using the arrow icon. Keep expanding the list to reveal more and more subtopics.
+1. When you find the ones you want to unsuspend, select the listing, which will bring up the cards from **that topic only**. Press ``Ctrl+A`` to select all cards in the browser, and ``Ctrl+J`` to unsuspend them. 
+1. You can now close the browser and review the cards normally, until you wish to unlock newer topics. To do that, just repeat all the steps from step 4).
 
 ### Setting up the review settings
 
 If you're a beginner to Anki, I recommend watching [this YouTube video](https://youtu.be/uLfczzq9z_8) to fully understand how Anki functions, and what settings for the learning algorithm might be the best for you. It's pretty long, but trust me, it will help you understand how the Anki review settings actually work.
 
-Here's how to apply the settings I personally use to study this deck, if you need a guideline. Feel free to play with it and find the settings which best work for you.
-1. Open Anki, and click the tiny ⚙️ icon to the right side of the deck name, and click ``Options``.
-1. Go to the dropdown on the top-right of the "_Options for Raagaception's 12STD CBSE Deck_", click ``Add Preset`` and give it a name.
-1. Here's how I set my settings for when I was studying for my CBSE 12th boards. The settings in **bold** have to be compulsorily copied as it is, at least for using this particular deck. Feel free to tailor the rest of the settings to your needs, as you see fit :
-#### Daily Limits
-- New cards/day = ``100`` (Depends on how close your exam is. Take the total number of cards in deck, divide it by the number of days left to your next major exam - you'll get the number which can roughly tell you what to set new cards per day to.)
-- **Maximum reviews/day** (MANDATORY!) = ``9999`` (Set this to the maximum number possible so as to not impede Anki's algorithm. Finish all available reviews daily if you want to utilize Anki to it's max.)
-#### New Cards
-- Learning steps = ``15m 1h 1400m``
-- Graduating Interval = ``3``
-- Easy Interval = ``4``
-- **Insertion order** (MANDATORY!) = ``Random``
-#### Lapses
-- Relearning steps = ``1h 1d``
-- Minimum interval = ``1``
-- Leech threshold = ``6`` (This declares the number of times you've to get a card wrong for Anki to declare it as a Leech)
-- **Leech Action** (MANDATORY!) = ``Tag Only``
-#### Display Order
-- **New card gather priority** (MANDATORY!) = ``Ascending position``
-- **New card sort order** (MANDATORY!) = ``Random``
-- New/review priority = ``Show before reviews``
-- Interday learning/review priority = ``Mix with reviews``
-- **Review sort order** (MANDATORY!) = ``Due date, then random``
-#### Burying
-- Bury new siblings until the next day = ``On``
-- Bury review siblings until the next day = ``Off``
-#### Advanced
-- Maximum interval = ``60`` (This really depends on you. This sets the longest duration in days beyond which your reviews can't be scheduled, anything over this limit overrides the Anki algorithm.)
-- **Starting ease** = ``2.50``
-- **Easy bonus** = ``1.30``
-- **Interval modifier** = ``1.00``
-- **Hard interval** = ``1.20``
-- **New interval** = ``0.20``
+1. After watching the above video, click the tiny ⚙️ icon to the right side of the deck name, and click ``Options`` to view the current review settings. 
+You'll notice that the deck comes pre-packaged with what I believe are optimal settings for studying the cards in this deck over a long period of time (for example, if you are six months away from your next major exam). If you're a beginner, consider this as a baseline preset for your convenience. 
+![](https://i.imgur.com/GBPnCuy.png)
+Sadly, there are no one-size-fits-all settings, so as you learn, just clone the preset and tweak them to best suit your study style. But there are certain settings which are compulsory for everyone to stick by for this deck, which you shouldn't change at any cost :
+	- **Maximum reviews/day** = ``9999``
+	- **Insertion order** = ``Random``
+	- **Leech Action** = ``Tag Only``
+	- **New card sort order** = ``Random``
+	- **Review sort order** = ``Due date, then random``
+1. Next, go to ``Tools > Preferences ...`` and navigate to the ``Scheduling`` tab. Change the two below settings as given :
+	- **V3 scheduler** = ``On``
+	- **Learn ahead limit** = ``0``
+	![](https://i.imgur.com/BzXfpgI.png)
+
+... and you're done with your review settings!
 
 ---
 
 ## Updating to a new version of the deck
 
 1. Keep in mind that updating the deck **OVERWRITES** all edits and structural changes you might have made to the deck on your end. If you wish to get your changes included in the public version of the deck, check out [how to contribute your edits for the next update](#contributing-your-own-cards-and-edits-to-this-deck).
-1. Open Anki, and rename your existing "_Raagaception's 12STD CBSE Deck_" to something like "_OLD Raagaception's 12STD CBSE Deck_"
-1. Now follow the same steps as [**installing the deck for the first time**](#Installing-the-deck-for-the-first-time)
+1. To update, follow the same steps as [**installing the deck for the first time**](#Installing-the-deck-for-the-first-time)
 	- There's a chance you might get a dialogue box which looks similar to this :
 		![](https://i.imgur.com/qB70Afa.png)
-	- If you get this, simply change the ``New note type`` to ``Basic-Raagaception`` if it's a basic card type (that is, has the fields ``Front`` and ``Back``) or to ``Cloze - Raagaception`` if it's a cloze card type (that is, it has the fields ``Text`` and ``Extra``)
-		![](https://i.imgur.com/iGEcA4h.png)
-1. After the import, you'll notice that all your existing cards have been automatically shifted to "_Raagaception's 12STD CBSE Deck_". At this point you can safely delete the now empty "_OLD Raagaception's 12STD CBSE Deck_".
-2. Close Anki fully and reopen it before doing anything else.
+	- If you get this, simply press ``OK`` for each of these dialogue boxes. You should be fine if you don't change any setting on this screen. (don't worry, they're deliberately configured to make desired changes automatically, in the right manner!)
+1. After the import, you'll notice that all your existing cards have been automatically shifted to "_Raagaception's 12STD CBSE Deck 2_" or something similar. At this point you can safely delete the older, but now empty "_Raagaception's 12STD CBSE Deck_" which contains zero cards. You're finished updating the deck!
+1. You may be left with some empty subdecks if we've changed our order; simply delete any empty decks which you see. Also, change your review settings preset back from our default settings to your personal settings preset if you wish.
 
 👉 To stay informed of new releases, make sure to [watch this repository's releases](https://help.github.com/en/articles/watching-and-unwatching-releases-for-a-repository), or join us on our [Discord server](https://discord.gg/kbSXsRTUC2) to get pinged whenever new updates are release.
 
@@ -133,14 +113,16 @@ Since this deck uses [CrowdAnki](https://github.com/Stvad/CrowdAnki), anyone wit
 ### Exporting as JSON via CrowdAnki
 1. Now comes the slightly confusing part - exporting with CrowdAnki from Anki. Open Anki, and read carefully.
 	- If you've just **edited** some errors on the cards from the public deck, then directly proceed to step 3.
-	- If you wish to add **new cards** to this deck, then put your cards into individual decks categorized by subtopics (try to categorize them to the best of your ability, we'll manage the rest during review). Create a new deck with your account's name, put the subtopic decks under that. Now put the deck with your GitHub username under ``3.GitHub Contributions Held for Review``.
-		- For example, if my GitHub username is ``Demo-User-42069``, and I want to contribute two decks, namely ``Inorganic Group-16`` and ``Vectors``, both meant for JEE aspirants, then this is what my structure should look like : ![](https://i.imgur.com/nyHGMYZ.png). **Please don't put your contributions under any other section, otherwise they'll get overwritten by updates.**
+	- If you wish to add **new cards** to this deck, then put your cards into individual decks categorized by subtopics (try to categorize them to the best of your ability, we'll manage the rest during review). Create a new deck with your account's name, put the subtopic decks under that. Now put the deck with your GitHub username under ``9.GitHub Contributions Held for Review``.
+		- For example, if your GitHub profile URL is ``github.com/Demo-User-42069``, and you want to contribute two decks, namely ``Inorganic Group-16 NCERT`` and ``Vectors JEE``, both meant for JEE aspirants, then this is what your structure more or less should look like : 
+		  ![](https://i.imgur.com/zL5Xc1o.png)
+		  **Please don't put your contributions under any other section, otherwise they'll get overwritten by updates.**
 1. Click the tiny ⚙️ icon to the right of _Raagaception's 12STD CBSE Deck_, and click ``Export``. 
-1. Change the export format to ``CrowdAnki JSON representation (*directory)`` 
+2. Change the export format to ``CrowdAnki JSON representation (*directory)`` 
 	![](https://i.imgur.com/suu5qSQ.png)
 1. Make sure all settings look exactly like the image below, then hit ``Export...``
 	![](https://i.imgur.com/8xXzv82.png)
-1. xport into any directory you wish, and remember the location. 
+1. Export into any directory you wish, and remember the location. 
 
 ### Creating a fork and committing changes
 1. Go to the export location, change the name ``deck.json`` to ``raagaception-12STD-CBSE-deck.json``. Then copy all the folder contents. 
@@ -214,7 +196,7 @@ This code was included in the initial versions of the deck but discontinued from
 ---
 
 ## Support Us
-This project is made with ❤️ by the community, to help all Science higher secondary students worldwide to ace their exams. You can support us by 
+This project is made with ❤️ by the community, to help all Science higher secondary students worldwide to ace their exams. You can support this project by 
 - Taking out some free time to [contribute to the development of this deck](#contributing-your-own-cards-and-edits-to-this-deck).
 - [Starring](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) the project on GitHub
 - Joining our ever-expanding [Discord server](https://discord.gg/kbSXsRTUC2)

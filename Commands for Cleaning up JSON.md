@@ -1,0 +1,21 @@
+**Use Notepad++ for cleaning up CrowdAnki JSON**
+
+1) For fixing UUID
+	- Search mode : ``Regular Expression``
+	- Find What : ``"deck_config_uuid": ".*"``
+	- Replace with : ``"deck_config_uuid": "6fb5f5e9-fcdb-11eb-a062-e0d55e85db11"``
+2) For replacing deck description with a placeholder description
+	- Search mode : ``Regular Expression``
+	- Find What : ``"desc": ".*"``
+	- Replace with : ``"desc": "ThisIsADummy123"``
+3) For replacing placeholder description with actual description
+	- Search mode : ``Normal``
+	- Find What : ``"desc": "ThisIsADummy123"``
+	- Replace with : ``"desc": "<html><head><style>\nh1, h2, h3, ol, p, li, li1, li2, li3 p1, p2, p3, body, ul, s1, s2, s3, strong, em, span {\nline-height: 1; margin-top: 1px; margin-bottom: 1px; padding-top: 1px; padding-bottom: 1px; font-family: Quicksand, sans-serif;\n}\nli { margin-bottom: -5px; margin-top: -5px; }\nul { margin-bottom: -5px; margin-top: -5px; }\n.dabba1 {\ncolor: #282828!important;\ncursor: pointer;\npadding: 6px!important;\nwidth:100%;\nborder: none;\noutline: none;\nfont-size: 12px;\nbox-shadow: none;\ntext-shadow: none!important;\n}\n.dabba2 {\ncolor: #282828!important;\ncursor: pointer;\npadding: 6px!important;\nwidth:31.7%;\nborder: none;\noutline: none;\nfont-size: 12px;\nbox-shadow: none;\ntext-shadow: none!important;\n}\n</style></head>\n<div style=\"text-align: center!important;\"><a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest\"><button type=\"button\" class=\"dabba1\" style=\"background: #eceff4!important;\"><h1 class=\"p1\" style=\"text-align: center; font-size:34px;color:auto;\"><img src=\"_Raagaception.png\" style=\"height:45px;\"><br><b>Raagaception's 12STD CBSE Deck&nbsp;</b></h1><h2 style=\"font-size:12px; font-style:italic; text-align:center;\">Click here to check out the latest released version.</h2></button></a></div>\n<div style=\"text-align: center!important;\"><a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck\"><button type=\"button\" class=\"dabba2\" style=\"background: #6cc644!important;\"><h1 class=\"p1\" style=\"text-align: center; font-size:25px;color:auto;\"><img src=\"_GitHubLogo.png\" style=\"height:30px;\"><br><b>&nbsp; GitHub Repository&nbsp;</b></h1><h2 style=\"font-size:12px; font-style:italic; text-align:center;\">Read the guide on GitHub to understand how to utilise this deck to it's fullest.<br><br><h2></button>ThisIsADummy456``
+4) For replacing placeholder description with actual description
+	- Search mode : ``Normal``
+	- Find What : ``ThisIsADummy456``
+	- Replace with : ``</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://discord.gg/kbSXsRTUC2\"><button type=\"button\" class=\"dabba2\" style=\"background: #5865F2!important; padding-top: 11px!important;\"><h1 class=\"p1\" style=\"text-align: center; font-size:25px;color:#ffffff;\"><img src=\"_DiscordLogo.png\" style=\"height:30px;\"><br><b>&nbsp; Discord Server</b></h1><h2 style=\"font-size:12px; color:#ffffff; font-style:italic; text-align:center;\">Come hang out with us fellow Anki nerds! You'll also get notified whenever new updates get released.</h2><h2 style=\"font-size:12px; font-style:italic; text-align:center;\">&nbsp;</h2></button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://github.com/Raagaception/raagaception-12STD-CBSE-deck#updating-to-a-new-version-of-the-deck\"><button type=\"button\" class=\"dabba2\" style=\"background: #bf616a!important; padding-top: 11px!important;\"><img src=\"_Disclaimer.png\" style=\"height:40px;\"><br><h1 class=\"p1\" style=\"text-align: center; font-size:25px;color:#ffffff;\"><b>DISCLAIMER!</b></h1><h2 style=\"font-size:12px; color:#ffffff; font-style:italic; text-align:center;\">Click here for the section of the guide on how to update this deck safely via the CrowdAnki addon. Importing the .apkg file for updates WILL mess up your cards!</h2><h2 style=\"font-size:12px; font-style:italic; text-align:center;\">&nbsp;</h2></button></a></a></div>\n</body></html>"``
+
+
+... and you're done.
