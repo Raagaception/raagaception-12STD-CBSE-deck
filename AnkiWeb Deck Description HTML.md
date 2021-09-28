@@ -1,9 +1,9 @@
-<a href="https://discord.gg/kbSXsRTUC2" rel="nofollow"><b>Discord Server</b></a> | <a href="https://github.com/Raagaception/raagaception-12STD-CBSE-deck/issues/new?body=%0A%0A%0A---%0AAnki+Card+ID+:%0AAnki+Note+ID+:%0A" rel="nofollow"><b>Submit an issue</b></a> | <a href="https://github.com/Raagaception/raagaception-12STD-CBSE-deck" rel="nofollow"><b>GitHub Repository</b></a> | <a href="https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest" rel="nofollow"><img src="https://img.shields.io/badge/Version-1.1.0-brightgreen.svg?style=flat-square"></a>
+<a href="https://discord.gg/kbSXsRTUC2" rel="nofollow"><b>Discord Server</b></a> | <a href="https://github.com/Raagaception/raagaception-12STD-CBSE-deck/issues/new?body=%0A%0A%0A---%0AAnki+Card+ID+:%0AAnki+Note+ID+:%0A" rel="nofollow"><b>Submit an issue</b></a> | <a href="https://github.com/Raagaception/raagaception-12STD-CBSE-deck" rel="nofollow"><b>GitHub Repository</b></a> | <a href="https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest" rel="nofollow"><img src="https://img.shields.io/badge/Version-1.2.0-brightgreen.svg?style=flat-square"></a>
 
-The largest, most comprehensive, community maintained flashcard deck for <a href="http://ankisrs.net/">Anki</a> on the internet, featuring...
-- Over <strong>500+ cards</strong> from 11th grade NCERT, and <strong>2600+ cards</strong> from 12th grade Chemistry NCERT; painstakingly covering Organic Chemistry, Inorganic Chemistry, and Physical Chemistry.
-- Over <strong>600+ cards</strong> from 12th Physics NCERT, spanning topics from Effects of Electricity, to Optics, to Semiconductors, and various other topics.
-- Over <strong>500+ cards</strong> from Math NCERT, covering most of the equations needed in solving calculus, trigonometry, and various other topics.
+The largest, most comprehensive, community maintained CBSE/JEE/NEET flashcard deck for <a href="http://ankisrs.net/">Anki</a> on the internet, featuring...
+- <strong>500+ cards</strong> from 11th grade NCERT, covering a few important topics from Physics and Chemistry.
+- <strong>3530+ cards</strong> from 12th grade NCERT, covering several topics from Physics, Chemistry, Math, etc.
+- <strong>6000+ cards</strong> for NEET prep.
 
 <img src="https://i.imgur.com/1fUGGME.gif" alt="">
 

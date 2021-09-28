@@ -21,11 +21,11 @@
 ---
 
 ## Introduction
-The largest, most comprehensive, community maintained flashcard deck for [Anki](http://ankisrs.net/) on the internet, featuring
-- Over **500+ cards** from 11th grade NCERT, and **2600+ cards** from 12th grade Chemistry NCERT; painstakingly covering Organic Chemistry, Inorganic Chemistry, and Physical Chemistry.
-- Over **600+ cards** from 12th Physics NCERT, spanning topics from Effects of Electricity, to Optics, to Semiconductors, and various other topics.
-- Over **500+ cards** from Math NCERT, covering most of the equations needed in solving calculus, trigonometry, and various other topics.
-- Community contributions using [CrowdAnki](https://github.com/Stvad/CrowdAnki), so anyone with a GitHub account can fact check cards, provide corrections, and even upload their own cards from any topic, be it for CBSE boards, JEE Mains, or the SATs!
+The largest, most comprehensive, community maintained CBSE/JEE/NEET flashcard deck for [Anki](http://ankisrs.net/) on the internet, featuring
+- **500+ cards** from 11th grade NCERT, covering a few important topics from Physics and Chemistry. 
+- **3530+ cards** from 12th grade NCERT, covering several topics from Physics, Chemistry, Math, etc. 
+- **6000+ cards** for NEET prep.
+- Community contributions using [CrowdAnki](https://github.com/Stvad/CrowdAnki), so anyone with a GitHub account can fact check cards, provide corrections, and even upload their own cards from any topic, be it for CBSE boards, JEE, or NEET!
 ![](https://i.imgur.com/1fUGGME.gif)
 
 ---
