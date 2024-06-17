@@ -1,8 +1,7 @@
 # Raagaception's 12STD CBSE Deck (Science stream, PCM)
 [AnkiWeb page](https://ankiweb.net/shared/info/1981482084) | [Latest Release](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest) | [Discord Server](https://discord.gg/kbSXsRTUC2)
 
-> **Author's Note as of November 2023**: This deck, despite being extensive and useful in it's own right, has syllabus gaps here and there, given that the CBSE/JEE/NEET syllabus is a massive ocean. Also, this deck was created in 2021; and there won't be any new further updates or additions to this project, since the we, the original authors of this repo don't have the time to maintain it or merge pull requests anymore. Users are recommended to use their own discretion to fine-tune the topics they wish to study from this deck according to the latest syllabus. Volunteers who are willing to fork and continue this project independently are welcome. Decks and resources of a similar nature, unaffiliated with this project, may be used to fullfil the gaps in knowledge left by this deck. A few such supplementary decks are listed below:
-> - [General inorganic concepts](https://ankiweb.net/shared/info/1273804388) by [MagnusCaesar](https://github.com/MagnusCaesar)
+> **Author's Note as of July 2024**: This deck, despite being extensive and useful in it's own right, has syllabus gaps here and there, given that the CBSE/JEE/NEET syllabus is a massive ocean. Also, this deck was created in 2021; and there won't be any new further updates or additions to this project, since the we, the original authors of this repo don't have the time to maintain it or merge pull requests anymore. Users are recommended to use their own discretion to fine-tune the topics they wish to study from this deck according to the latest syllabus. Volunteers who are willing to fork and continue this project independently are welcome. Decks and resources of a similar nature, unaffiliated with this project, may be used to fullfil the gaps in knowledge left by this deck. A few such supplementary decks are listed below:
 > - [Biology NCERT/NEET deck](https://ankiweb.net/shared/info/2086975520) by [fleecesnatcher](https://www.reddit.com/user/fleecesnatcher)
 > - [JEE + KPVY SA decks](https://github.com/kremlin-showers/Anki-Decks) by [kremlin-showers](https://github.com/kremlin-showers)
 
@@ -10,8 +9,7 @@
 
 - [**Introduction**](#introduction)
 - [**Getting started**](#getting-started)
-	- [Installing Anki and setting up the CrowdAnki addon](#installing-anki-and-setting-up-the-crowdanki-addon)
-	- [Installing the deck for the first time](#installing-the-deck-for-the-first-time)
+	- [Getting the Deck via CrowdAnki](#getting-the-deck-via-crowdanki)
 	- [Selectively studying from desired topics](#selectively-studying-from-desired-topics)
 	- [Setting up the review settings](#setting-up-the-review-settings)
 - [**Updating to a new version of the deck**](#updating-to-a-new-version-of-the-deck)
@@ -27,10 +25,12 @@
 
 ## Introduction
 The largest, most comprehensive, community maintained CBSE/JEE/NEET flashcard deck for [Anki](http://ankisrs.net/) on the internet, featuring
-- **500+ cards** from 11th grade NCERT, covering a few important topics from Physics and Chemistry. 
-- **3530+ cards** from 12th grade NCERT, covering several topics from Physics, Chemistry, Math, etc. 
-- **6000+ cards** for NEET prep.
-- Community contributions using [CrowdAnki](https://github.com/Stvad/CrowdAnki), so anyone with a GitHub account can fact check cards, provide corrections, and even upload their own cards from any topic, be it for CBSE boards, JEE, or NEET!
+- 1. **326 cards** to teach you universally important stuff, like values of constants, IUPAC Nomenclature, standard substitutions from integration and differentiation, trigonometric identities, etc.
+- 2. **1129 cards** from 11th grade NCERT, covering topics from Physics and Chemistry.
+- 3. **4947 cards** from 12th grade NCERT, covering topics from Physics, Chemistry, and Mathematics.
+- 4. **2479 cards** from 11th grade NCERT, covering topics from Biology; useful for NEET prep.
+- 5. **1764 cards** from 12th grade NCERT, covering topics from Biology; useful for NEET prep.
+- 6. **291 cards** covering JEE concepts; mostly Inorganic Chemistry.
 ![](https://i.imgur.com/1fUGGME.gif)
 
 ---
@@ -38,7 +38,9 @@ The largest, most comprehensive, community maintained CBSE/JEE/NEET flashcard de
 ## Getting started
 First-time here? Welcome! 👋 Following all the steps given below will get you up and running.
 
-### Installing Anki and setting up the CrowdAnki addon
+### Getting the Deck via CrowdAnki (recommended)
+
+#### Step 1: Installing Anki and setting up the CrowdAnki addon
 
 1. New to Anki? You need to first set up the program.
 	- Go over to the [AnkiWeb website](http://ankisrs.net/), scroll down, download the latest version for your operating system, and install it on your PC.
@@ -46,14 +48,20 @@ First-time here? Welcome! 👋 Following all the steps given below will get you 
 	- Open Anki on your computer, go to the ``Tools`` menu and select ``Add-ons``.
 	- In the dialog box, click on ``Get Add-ons...`` and paste in the following code : ``1788670778``
 	- Click on ``OK`` to install the add-on, and close the Anki program.
-You're now ready to install the deck itself!
 
-### Installing the deck for the first time
+#### Step 2: Installing the deck from repository
 
 1. Open Anki, go to the ``File`` menu and select ``CrowdAnki: Import git repository``.
 1. In the dialog box, paste in the link to this repository : ``https://github.com/Raagaception/raagaception-12STD-CBSE-deck``. Wait for a little while as CrowdAnki imports the deck for you. **Don't panic if Windows shows that Anki isn't responding**, just give it time.
 1. Don't change anything in the _CrowdAnki Import Settings_ dialog box that opens; just press ``OK`` to start the import. A dialog box should then confirm that the import was successful.
 1. The deck must now be visible on your profile. Close Anki fully and reopen it before doing anything else.
+
+### For Importing the ``.apkg`` Deck file
+
+1. New to Anki? You need to first set up the program.
+	- Go over to the [AnkiWeb website](http://ankisrs.net/), scroll down, download the latest version for your operating system, and install it on your PC.
+1. Go to the [latest release page](https://github.com/Raagaception/raagaception-12STD-CBSE-deck/releases/latest), and expand the "Assets" section at the bottom.
+1. Download the file ``raagaception-12STD-CBSE-deck-v1.3.0.apkg``, and double click when downloaded. It should open up and get imported to Anki automatically.
 
 ### Selectively studying from desired topics
 You don't need to study everything in the deck, just study what you WANT to; since the deck is painstakingly arranged topic-by-topic, and chapter-by-chapter.
@@ -101,7 +109,10 @@ Sadly, there are no one-size-fits-all settings, so as you learn, just clone the 
 
 ---
 
-## Contributing your own cards and edits to this deck
+## \[Obsolete\] Contributing your own cards and edits to this deck
+
+As of ``v1.3.0``, contributions to the deck are hereby closed. The instructions below are purely left for posterity; if someone forks this project and continues it, they may copy paste these steps for users to submit updates.
+
 Since this deck uses [CrowdAnki](https://github.com/Stvad/CrowdAnki), anyone with a GitHub account can help in correcting errors on cards and adding new cards from topics which are not already covered in the deck. If you're inclined to sincerely do so, then read on.
 
 ### Setting up your GitHub account and GitHub desktop
@@ -159,7 +170,8 @@ When you see the following screen, you've successfully submitted your contributi
 
 ---
 
-## MathJax render script for AnkiWeb users
+## \[Obselete\] MathJax render script for AnkiWeb users
+
 If you wish to review your cards on the browser version of AnkiWeb, the MathJax equations in any cards won't get rendered. But by adding the following code to the front and back of the "Basic - Raagaception" and "Cloze - Raagaception" card templates, AnkiWeb will render your MathJax for you : 
 ```css
 <script type="text/x-mathjax-config">

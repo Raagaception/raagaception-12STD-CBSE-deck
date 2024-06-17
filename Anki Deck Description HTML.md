@@ -1,5 +1,3 @@
-Included from v1.1.0!
-
 ```html
 <html><head><style>
 h1, h2, h3, ol, p, li, li1, li2, li3 p1, p2, p3, body, ul, s1, s2, s3, strong, em, span {

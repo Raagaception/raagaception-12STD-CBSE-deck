@@ -1,5 +1,6 @@
 {
   "baseFontSize": 17,
   "cssTheme": "Gitsidian",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "accentColor": ""
 }
