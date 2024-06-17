@@ -14,8 +14,8 @@
 - [**Updating to a new version of the deck**](#updating-to-a-new-version-of-the-deck)
 - [**Support Us**](#support-us)
 - **Obsolete Sections**
-	- [Contributing your own cards and edits to this deck]
-	- [MathJax render script for AnkiWeb users]
+	- [Contributing your own cards and edits to this deck](#obsolete-contributing-your-own-cards-and-edits-to-this-deck)
+	- [MathJax render script for AnkiWeb users](#obsolete-contributing-your-own-cards-and-edits-to-this-deck)
 
 
 ---
