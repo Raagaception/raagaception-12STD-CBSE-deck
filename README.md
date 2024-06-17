@@ -25,12 +25,12 @@
 
 ## Introduction
 The largest, most comprehensive, community maintained CBSE/JEE/NEET flashcard deck for [Anki](http://ankisrs.net/) on the internet, featuring
-- 1. **326 cards** to teach you universally important stuff, like values of constants, IUPAC Nomenclature, standard substitutions from integration and differentiation, trigonometric identities, etc.
-- 2. **1129 cards** from 11th grade NCERT, covering topics from Physics and Chemistry.
-- 3. **4947 cards** from 12th grade NCERT, covering topics from Physics, Chemistry, and Mathematics.
-- 4. **2479 cards** from 11th grade NCERT, covering topics from Biology; useful for NEET prep.
-- 5. **1764 cards** from 12th grade NCERT, covering topics from Biology; useful for NEET prep.
-- 6. **291 cards** covering JEE concepts; mostly Inorganic Chemistry.
+1. **326 cards** to teach you universally important stuff, like values of constants, IUPAC Nomenclature, standard substitutions from integration and differentiation, trigonometric identities, etc.
+1. **1129 cards** from 11th grade NCERT, covering topics from Physics and Chemistry.
+1. **4947 cards** from 12th grade NCERT, covering topics from Physics, Chemistry, and Mathematics.
+1. **2479 cards** from 11th grade NCERT, covering topics from Biology; useful for NEET prep.
+1. **1764 cards** from 12th grade NCERT, covering topics from Biology; useful for NEET prep.
+1. **291 cards** covering JEE concepts; mostly Inorganic Chemistry.
 ![](https://i.imgur.com/1fUGGME.gif)
 
 ---
