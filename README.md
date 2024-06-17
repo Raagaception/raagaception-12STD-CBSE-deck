@@ -12,13 +12,11 @@
 	- [Getting the Deck via CrowdAnki](#getting-the-deck-via-crowdanki-recommended)
 	- [Importing the ``.apkg`` file directly](#importing-the-apkg-deck-file-directly)
 - [**Updating to a new version of the deck**](#updating-to-a-new-version-of-the-deck)
-- [**Contributing your own cards and edits to this deck**](#contributing-your-own-cards-and-edits-to-this-deck)
-	- [Setting up your GitHub account and GitHub desktop](#setting-up-your-github-account-and-github-desktop)
-	- [Exporting as JSON via CrowdAnki](#exporting-as-json-via-crowdanki)
-	- [Creating a fork and committing changes](#creating-a-fork-and-committing-changes)
-	- [Pushing your changes to our repository for review](#pushing-your-changes-to-our-repository-for-review)
-- [**MathJax render script for AnkiWeb users**](#mathjax-render-script-for-ankiweb-users)
 - [**Support Us**](#support-us)
+- **Obsolete Sections**
+	- [Contributing your own cards and edits to this deck]
+	- [MathJax render script for AnkiWeb users]
+
 
 ---
 
@@ -102,6 +100,15 @@ Sadly, there are no one-size-fits-all settings, so as you learn, just clone the 
 2. Also, change your review settings preset back from our default settings to your personal settings preset, if you wish.
 
 👉 To stay informed of new releases, make sure to [watch this repository's releases](https://help.github.com/en/articles/watching-and-unwatching-releases-for-a-repository), or join us on our [Discord server](https://discord.gg/kbSXsRTUC2) to get pinged whenever new updates are release.
+
+---
+
+## Support Us
+This project is made with ❤️ by the community, to help all Science higher secondary students worldwide to ace their exams. You can support this project by 
+- [Starring](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) the project on GitHub
+- Joining our ever-expanding [Discord server](https://discord.gg/kbSXsRTUC2)
+- Leaving a review on the deck's [AnkiWeb page](https://ankiweb.net/shared/info/1981482084)
+- By spreading the word around. Share this repository's link to anyone you know who might benefit from using it!
 
 ---
 
@@ -205,15 +212,6 @@ document.body.appendChild(script);
 ```
 
 This code was included in the initial versions of the deck but discontinued from v0.9.0 onwards to maximize compatibility, since on versions of Anki 2.1.40 or lower, this JavaScript [causes a rendering error](https://i.imgur.com/KfQRJZZ.png). Hence if you need the functionality, and you use Anki version 2.1.42+, you can manually add it yourself.
-
----
-
-## Support Us
-This project is made with ❤️ by the community, to help all Science higher secondary students worldwide to ace their exams. You can support this project by 
-- [Starring](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) the project on GitHub
-- Joining our ever-expanding [Discord server](https://discord.gg/kbSXsRTUC2)
-- Leaving a review on the deck's [AnkiWeb page](https://ankiweb.net/shared/info/1981482084)
-- By spreading the word around. Share this repository's link to anyone you know who might benefit from using it!
 
 ---
 ---
