@@ -9,9 +9,8 @@
 
 - [**Introduction**](#introduction)
 - [**Getting started**](#getting-started)
-	- [Getting the Deck via CrowdAnki](#getting-the-deck-via-crowdanki)
-	- [Selectively studying from desired topics](#selectively-studying-from-desired-topics)
-	- [Setting up the review settings](#setting-up-the-review-settings)
+	- [Getting the Deck via CrowdAnki](#getting-the-deck-via-crowdanki-recommended)
+	- [Importing the ``.apkg`` file directly](#for-importing-the-apkg-deck-file)
 - [**Updating to a new version of the deck**](#updating-to-a-new-version-of-the-deck)
 - [**Contributing your own cards and edits to this deck**](#contributing-your-own-cards-and-edits-to-this-deck)
 	- [Setting up your GitHub account and GitHub desktop](#setting-up-your-github-account-and-github-desktop)
@@ -56,7 +55,7 @@ First-time here? Welcome! 👋 Following all the steps given below will get you 
 1. Don't change anything in the _CrowdAnki Import Settings_ dialog box that opens; just press ``OK`` to start the import. A dialog box should then confirm that the import was successful.
 1. The deck must now be visible on your profile. Close Anki fully and reopen it before doing anything else.
 
-### For Importing the ``.apkg`` Deck file
+### Importing the ``.apkg`` Deck file directly
 
 1. New to Anki? You need to first set up the program.
 	- Go over to the [AnkiWeb website](http://ankisrs.net/), scroll down, download the latest version for your operating system, and install it on your PC.
