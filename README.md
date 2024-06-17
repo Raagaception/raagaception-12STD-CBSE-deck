@@ -214,7 +214,6 @@ This code was included in the initial versions of the deck but discontinued from
 
 ## Support Us
 This project is made with ❤️ by the community, to help all Science higher secondary students worldwide to ace their exams. You can support this project by 
-- Taking out some free time to [contribute to the development of this deck](#contributing-your-own-cards-and-edits-to-this-deck).
 - [Starring](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) the project on GitHub
 - Joining our ever-expanding [Discord server](https://discord.gg/kbSXsRTUC2)
 - Leaving a review on the deck's [AnkiWeb page](https://ankiweb.net/shared/info/1981482084)
