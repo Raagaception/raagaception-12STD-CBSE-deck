@@ -10,7 +10,7 @@
 - [**Introduction**](#introduction)
 - [**Getting started**](#getting-started)
 	- [Getting the Deck via CrowdAnki](#getting-the-deck-via-crowdanki-recommended)
-	- [Importing the ``.apkg`` file directly](#for-importing-the-apkg-deck-file)
+	- [Importing the ``.apkg`` file directly](#importing-the-apkg-deck-file-directly)
 - [**Updating to a new version of the deck**](#updating-to-a-new-version-of-the-deck)
 - [**Contributing your own cards and edits to this deck**](#contributing-your-own-cards-and-edits-to-this-deck)
 	- [Setting up your GitHub account and GitHub desktop](#setting-up-your-github-account-and-github-desktop)
@@ -96,13 +96,10 @@ Sadly, there are no one-size-fits-all settings, so as you learn, just clone the 
 
 ## Updating to a new version of the deck
 
-1. Keep in mind that updating the deck **OVERWRITES** all edits and structural changes you might have made to the deck on your end. If you wish to get your changes included in the public version of the deck, check out [how to contribute your edits for the next update](#contributing-your-own-cards-and-edits-to-this-deck).
-1. To update, follow the same steps as [**installing the deck for the first time**](#Installing-the-deck-for-the-first-time)
-	- There's a chance you might get a dialogue box which looks similar to this :
-		![](https://i.imgur.com/qB70Afa.png)
-	- If you get this, simply press ``OK`` for each of these dialogue boxes. You should be fine if you don't change any setting on this screen. (don't worry, they're deliberately configured to make desired changes automatically, in the right manner!)
-1. After the import, you'll notice that all your existing cards have been automatically shifted to "_Raagaception's 12STD CBSE Deck 2_" or something similar. At this point you can safely delete the older, but now empty "_Raagaception's 12STD CBSE Deck_" which contains zero cards. You're finished updating the deck!
-1. You may be left with some empty subdecks if we've changed our order; simply delete any empty decks which you see. Also, change your review settings preset back from our default settings to your personal settings preset if you wish.
+1. Keep in mind that updating the deck **OVERWRITES** all edits and structural changes you might have made to the deck on your end.
+1. To update, follow the same steps as [**installing the deck from repository**](#step-2-installing-the-deck-from-repository)
+1. You may be left with some empty subdecks; simply delete any empty decks which you see. 
+2. Also, change your review settings preset back from our default settings to your personal settings preset, if you wish.
 
 👉 To stay informed of new releases, make sure to [watch this repository's releases](https://help.github.com/en/articles/watching-and-unwatching-releases-for-a-repository), or join us on our [Discord server](https://discord.gg/kbSXsRTUC2) to get pinged whenever new updates are release.
 
